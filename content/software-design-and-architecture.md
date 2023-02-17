@@ -1,6 +1,6 @@
 ---
 title: "Software Design and Architecture"
-metaTitle: ""
+metaTitle: "Software Design and Architecture | DevBucket"
 metaDescription: ""
 ---
 

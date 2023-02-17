@@ -1,6 +1,6 @@
 ---
 title: "GO"
-metaTitle: ""
+metaTitle: "GO | DevBucket"
 metaDescription: ""
 ---
 

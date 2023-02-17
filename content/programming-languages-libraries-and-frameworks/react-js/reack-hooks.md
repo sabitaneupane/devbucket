@@ -1,47 +1,11 @@
 ---
 title: "React Hooks"
-metaTitle: ""
+metaTitle: "React Hooks | DevBucket"
 metaDescription: ""
 ---
 
-# React Hooks
+## React Hooks
 
-
-
-## Table of content
-- [React Hooks](#react-hooks)
-  - [Table of content](#table-of-content)
-  - [Introduction](#introduction)
-    - [Motivation of hooks](#motivation-of-hooks)
-    - [Benefits of hooks](#benefits-of-hooks)
-  - [Rules of Hooks](#rules-of-hooks)
-      - [Reason: Only Call Hooks at the Top Level](#reason-only-call-hooks-at-the-top-level)
-      - [Reason:Only Call Hooks from React Functions](#reasononly-call-hooks-from-react-functions)
-  - [Built-in React hooks](#built-in-react-hooks)
-    - [useState hook: For State Management](#usestate-hook-for-state-management)
-    - [useEffect hook: For Side Effects](#useeffect-hook-for-side-effects)
-    - [useContext Hook: For Context API](#usecontext-hook-for-context-api)
-    - [useReducer Hook: For Managing Complex State](#usereducer-hook-for-managing-complex-state)
-    - [useMemo Hook: For Memoization](#usememo-hook-for-memoization)
-    - [useCallback Hook: For Optimizing Function Calls](#usecallback-hook-for-optimizing-function-calls)
-    - [useRef Hook: For Managing Refs](#useref-hook-for-managing-refs)
-    - [useDebugValue Hook: For Debugging](#usedebugvalue-hook-for-debugging)
-    - [useLayoutEffect Hook: For Optimizing Layout Peformance](#uselayouteffect-hook-for-optimizing-layout-peformance)
-    - [useLazy, useSuspense, and useTransition Hooks: For Lazy Loading](#uselazy-usesuspense-and-usetransition-hooks-for-lazy-loading)
-      - [useLazy](#uselazy)
-      - [useSuspense](#usesuspense)
-      - [useTransition](#usetransition)
-    - [useImperativeHandle: For Exposing Functions to Parent Components](#useimperativehandle-for-exposing-functions-to-parent-components)
-    - [useMutationEffect Hook: For Synchronous Updates in Layout](#usemutationeffect-hook-for-synchronous-updates-in-layout)
-  - [Custom Hooks for Reusable Logic](#custom-hooks-for-reusable-logic)
-    - [useErrorBoundary: For catching and handling errors](#useerrorboundary-for-catching-and-handling-errors)
-  - [Optimizing Performance with React Hooks](#optimizing-performance-with-react-hooks)
-  - [Integrating React Hooks with React Router](#integrating-react-hooks-with-react-router)
-  - [React Hooks and Testing](#react-hooks-and-testing)
-  - [Interview Preparation:](#interview-preparation)
-  - [Resources](#resources)
-
-## Introduction
 
 Hooks are a new feature in React 16.8 that enable functional components to access state and other React functionalities. They are functions that allow you to integrate with React's state and lifecycle mechanisms, without the need for a class component. This allows for the reuse of stateful logic across different components, without altering their structure.
 
@@ -607,7 +571,7 @@ function MyComponent() {
 In this example, we've created a functional component called `MyComponent` and used the `useLazy` hook to lazily load a component called LazyComponent. The LazyComponent is loaded when its promise is resolved, which can be triggered by calling the preload method on the LazyComponent object.
 
 #### useSuspense
-This hook is used in conjunction with the `<Suspense>` component to show a fallback UI while a component is being loaded. The <Suspense> component is used to wrap the lazy-loaded component, and the `useSuspense` hook is used to show a fallback UI if the component is not yet loaded. 
+This hook is used in conjunction with the `<Suspense>` component to show a fallback UI while a component is being loaded. The `<Suspense>` component is used to wrap the lazy-loaded component, and the `useSuspense` hook is used to show a fallback UI if the component is not yet loaded. 
 
 Here is an example:
 ```JS
@@ -627,7 +591,7 @@ function MyComponent() {
   );
 }
 ```
-In this example, we've added the <Suspense> component around the lazy-loaded component, and we've used the useSuspense hook to show a fallback UI when the component is not yet loaded.
+In this example, we've added the `<Suspense>` component around the lazy-loaded component, and we've used the useSuspense hook to show a fallback UI when the component is not yet loaded.
 
 #### useTransition
 This hook is used to add a transition to a lazy-loaded component. 
@@ -1251,6 +1215,3 @@ This is just a simple example, but you can use this approach to test any compone
 ## Resources
 
 - [https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)
-
----
-

@@ -1,6 +1,6 @@
 ---
 title: "Web Application Design and Architecture"
-metaTitle: ""
+metaTitle: "Web Application Design and Architecture | DevBucket"
 metaDescription: ""
 ---
 

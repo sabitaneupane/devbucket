@@ -1,6 +1,6 @@
 ---
 title: "Data Structure and Algorithm"
-metaTitle: ""
+metaTitle: "Data Structure and Algorithm | DevBucket"
 metaDescription: ""
 ---
 

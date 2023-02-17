@@ -82,8 +82,8 @@ const pwaConfig = {
 
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://nsabita.com.np',
+    pathPrefix: '/devbucket',
+    siteUrl: 'https://sabitaneupane.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },

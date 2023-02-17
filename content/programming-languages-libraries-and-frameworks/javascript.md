@@ -1,6 +1,6 @@
 ---
 title: "JavaScript"
-metaTitle: ""
+metaTitle: "JavaScript | DevBucket"
 metaDescription: ""
 ---
 
