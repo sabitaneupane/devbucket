@@ -113,7 +113,9 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     src="https://nsabita.com.np/wp-content/uploads/2021/05/cropped-Sabita-Neupane-logo.png"
                     alt=""
                   /> */}
-                  <p className='brand-text'> DevBucket</p>
+                  <p className="brand-text">
+                    <Link to="/">DevBucket</Link>
+                  </p>
                 </Link>
               </div>
             </div>
@@ -133,7 +135,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 <Sidebar location={location} />
                 <hr />
               </div>
-              
+
               <ul className={'navBarUL navBarNav navBarULRight'}>
                 {headerLinks.map((link, key) => {
                   if (link.link !== '' && link.text !== '') {
@@ -191,6 +193,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
+                {/* TODO */}
                 {/* <li>
                   <DarkModeSwitch
                     isDarkThemeActive={isDarkThemeActive}

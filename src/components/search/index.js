@@ -149,7 +149,8 @@ export default function SearchComponent({ indices, collapse, hitsAsGrid }) {
             </Index>
           );
         })}
-        <PoweredBy />
+        {/* TODO */}
+        {/* <PoweredBy /> */}
       </HitsWrapper>
       <Configure hitsPerPage={5} />
     </InstantSearch>

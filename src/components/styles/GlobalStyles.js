@@ -116,7 +116,7 @@ export const baseStyles = css`
     margin-right: 5px;
   }
 
-  .brand-text{
+  .brand-text a{
     color: #0A5F63;
     font-size: 20px;
     font-weight: bolder;

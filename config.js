@@ -31,20 +31,18 @@ const headerConfig = {
   },
 };
 
+const menuList = [
+  '/programming-languages-libraries-and-frameworks',
+  '/software-design-and-architecture',
+  '/web-application-design-principles-and-architecture',
+  '/system-design-principles-and-architecture',
+  '/data-structure-and-algorithm',
+];
+
 const sidebarConfig = {
-  forcedNavOrder: [
-    '/programming-languages-libraries-and-frameworks',
-    '/software-design-and-architecture',
-    '/web-application-design-principles-and-architecture',
-    '/data-structure-and-algorithm',
-  ],
-  collapsedNav: [
-    '/programming-languages-libraries-and-frameworks',
-    '/software-design-and-architecture',
-    '/web-application-design-principles-and-architecture',
-    '/data-structure-and-algorithm',
-  ],
-  links: [{ text: 'About Me: Sabita Neupane', link: 'https://nsabita.com.np' }],
+  forcedNavOrder: menuList,
+  collapsedNav: menuList,
+  links: [{ text: 'About Me', link: 'https://nsabita.com.np' }],
   frontLine: false,
   ignoreIndex: true,
   title: '',
