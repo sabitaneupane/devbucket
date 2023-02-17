@@ -1,0 +1,15 @@
+# Daily Tech Dose: Web Application Development
+
+[<< Go Back](../../README.md)
+
+## Web Application Development
+
+- API Documentation (such as Swagger, Postman, and Readme)
+- API Design and Management
+- API Versioning and Management
+- Third-Party Services and APIs Integration
+- System Integration
+- Scalable Architecture and Design
+
+---
+[<< Go Back](../../README.md)
