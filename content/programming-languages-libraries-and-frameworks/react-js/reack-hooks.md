@@ -167,7 +167,7 @@ In this example, the useState hook is being called from the App component, which
   |                                               |                                             |
 
 
-### useState hook: For State Management
+## useState hook: For State Management
 
 The `useState` hook is a built-in hook in React that enables you to manage state within your functional components.
 
@@ -214,7 +214,7 @@ export default Counter;
 In this example, we've initialized the `count` state to `0` using `useState(0)`. We've also created an `incrementCount` function that updates the count state using `setCount(count + 1)`. Finally, we've rendered the count value in a paragraph tag and a button that calls the `incrementCount` function when clicked.
 
 
-### useEffect hook: For Side Effects
+## useEffect hook: For Side Effects
 
 The `useEffect` hook is a built-in hook in React that allows you to perform side effects in your functional components.
 
@@ -263,7 +263,7 @@ In this example, the effect will only run once when the component mounts because
 Some common use cases for the useEffect hook include fetching data from an API, subscribing to events, and updating the DOM. The useEffect hook is a powerful tool for managing side effects in your React components.
 
 
-### useContext Hook: For Context API 
+## useContext Hook: For Context API 
 
 The `useContext` hook is a built-in hook in React that provides a way to pass data down the component tree without having to pass props down manually at every level.
 
@@ -304,7 +304,7 @@ In this example, we've used the `useContext` hook to access the value of the `My
 
 The useContext hook is a powerful tool for passing data down the component tree in a more efficient and less error-prone way than passing props down manually.
 
-### useReducer Hook: For Managing Complex State  
+## useReducer Hook: For Managing Complex State  
 The `useReducer` hook is a built-in hook in React that allows you to manage state using a reducer function. It is an alternative to the useState hook and is particularly useful for managing complex state or state that involves multiple sub-values.
 
 To use the useReducer hook, you first need to define a `reducer` function that takes the current state and an action as its arguments and returns the new state. 
@@ -360,7 +360,7 @@ We've then rendered the count value in a paragraph tag and two buttons that call
 The useReducer hook is a powerful tool for managing complex state in your React components. It provides a way to manage state in a more structured way and can help prevent bugs by centralizing state updates in a single function.
 
 
-### useMemo Hook: For Memoization  
+## useMemo Hook: For Memoization  
 
 The `useMemo` hook is a built-in hook in React that allows you to memoize the results of a function call and prevent unnecessary re-renders of your component.
 
@@ -395,7 +395,7 @@ Some common use cases for the useMemo hook include memoizing the results of expe
 
 It's important to note that the useMemo hook should only be used for expensive calculations or other operations that might slow down your component's rendering performance. If you're not experiencing any performance issues, there's no need to use the useMemo hook.
 
-### useCallback Hook: For Optimizing Function Calls  
+## useCallback Hook: For Optimizing Function Calls  
 
 The `useCallback` hook is a built-in hook in React that allows you to optimize your function components by memoizing the functions they depend on.
 
@@ -426,7 +426,7 @@ Some common use cases for the useCallback hook include
 
 By using the useCallback hook, you can improve the performance of your React components by avoiding unnecessary re-renders and reducing the computational cost of expensive functions.
 
-### useRef Hook: For Managing Refs
+## useRef Hook: For Managing Refs
 
 The `useRef` hook is a built-in hook in React that allows you to create a mutable object that persists throughout the lifetime of a component.
 
@@ -483,7 +483,7 @@ In this example, we've created a `useRef` object called `previousCountRef`, whic
 The useRef hook is a powerful tool for managing references and persistent values in your React components.
 
 
-### useDebugValue Hook: For Debugging  
+## useDebugValue Hook: For Debugging  
 
 The `useDebugValue` hook is a built-in hook in React that allows you to display custom labels for custom hooks in React DevTools.
 
@@ -508,7 +508,7 @@ When you use this custom hook in your component, you'll be able to see the label
 
 The useDebugValue hook can be a helpful tool for debugging custom hooks and gaining better insight into how they're working in your application.
 
-### useLayoutEffect Hook: For Optimizing Layout Peformance 
+## useLayoutEffect Hook: For Optimizing Layout Peformance 
 
 The `useLayoutEffect` hook is similar to the useEffect hook, but it runs synchronously immediately after a component has been updated and before the browser paints the screen, whereas useEffect runs asynchronously after the component has been updated and the browser has painted the screen.
 
@@ -543,14 +543,14 @@ In summary, the useLayoutEffect hook is a powerful tool for optimizing the perfo
 
 _However, you should use it sparingly and be mindful of potential performance issues._
 
-### useLazy, useSuspense, and useTransition Hooks: For Lazy Loading 
+## useLazy, useSuspense, and useTransition Hooks: For Lazy Loading 
 
 React provides three hooks to help with lazy loading: 
 * useLazy, 
 * useSuspense 
 * useTransition
 
-#### useLazy
+### useLazy
 This hook allows you to lazily load a component, meaning that the component is loaded only when it is actually needed. The `useLazy` hook takes a function that returns a promise as its argument. When the component needs to be loaded, the promise is resolved and the component is loaded. 
 
 Here is an example:
@@ -570,7 +570,7 @@ function MyComponent() {
 ```
 In this example, we've created a functional component called `MyComponent` and used the `useLazy` hook to lazily load a component called LazyComponent. The LazyComponent is loaded when its promise is resolved, which can be triggered by calling the preload method on the LazyComponent object.
 
-#### useSuspense
+### useSuspense
 This hook is used in conjunction with the `<Suspense>` component to show a fallback UI while a component is being loaded. The `<Suspense>` component is used to wrap the lazy-loaded component, and the `useSuspense` hook is used to show a fallback UI if the component is not yet loaded. 
 
 Here is an example:
@@ -593,7 +593,7 @@ function MyComponent() {
 ```
 In this example, we've added the `<Suspense>` component around the lazy-loaded component, and we've used the useSuspense hook to show a fallback UI when the component is not yet loaded.
 
-#### useTransition
+### useTransition
 This hook is used to add a transition to a lazy-loaded component. 
 
 The useTransition hook takes two arguments: 
@@ -624,7 +624,7 @@ In this example, we've used the `useTransition` hook to add a two-second transit
 If the transition is pending, we show a loading message, and once the transition is complete, we show the lazy-loaded component.
 
 
-### useImperativeHandle: For Exposing Functions to Parent Components
+## useImperativeHandle: For Exposing Functions to Parent Components
 The `useImperativeHandle` hook is used to expose functions or other values from a child component to its parent component. This can be useful when you need to access specific functions or properties of a child component from the parent component.
 
 Here's an example of how to use the useImperativeHandle hook:
@@ -649,7 +649,7 @@ export default ChildComponent;
 In this example, we've created a child component called ChildComponent that contains a button with a handleClick function. We've used the useImperativeHandle hook to expose the handleClick function to the parent component by passing it as an object to the ref parameter.
 
 
-### useMutationEffect Hook: For Synchronous Updates in Layout
+## useMutationEffect Hook: For Synchronous Updates in Layout
 
 The `useMutationEffect` hook is similar to the useEffect hook, but it runs synchronously after all DOM mutations have been processed. This can be useful for updating the layout of a component after changes have been made to the DOM.
 
@@ -1048,7 +1048,7 @@ In the first test, we're checking that the initial value of the counter is 0. In
 This is just a simple example, but you can use this approach to test any component that uses a hook. By mocking the hook, you can easily test different scenarios and ensure that your component behaves correctly.
 
 
-## Interview Preparation:
+## Interview Preparation
 
 - **What are React Hooks and how do they work?**
 

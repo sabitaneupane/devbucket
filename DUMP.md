@@ -14,7 +14,7 @@
   - [ ] Why Key is important in looped content
   - [ ] State Management
   - [ ] Formik and Yup
-  - [ ] React Hooks and Custom Hooks - (In Progress)
+  - [x] React Hooks and Custom Hooks
   - [ ] Is <App> !== App() ?
 - [ ] NodeJS/ExpressJS
 - [ ] Typescript
@@ -69,7 +69,6 @@
 - [ ] Frontend Developer
 - [ ] ReactJS Developer
 - [ ] Backend Developer
-
 
 ## Software Design and Architecture
 
