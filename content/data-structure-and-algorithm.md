@@ -4,7 +4,9 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-# Table of content
+## Introduction
+
+## Table of content
 
 - Introduction to Data Structure and Algorithm
 - Basic concepts and notations
@@ -40,3 +42,5 @@ metaDescription: ""
   - Math and Bit Manipulation
   - Approximation algorithms
   - Sliding Window algorithms
+
+## Resources

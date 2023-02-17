@@ -96,17 +96,26 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         <div className={'navBarWrapper'}>
           <nav className={'navBarDefault'}>
             <div className={'navBarHeader'}>
-              <Link to={finalLogoLink} className={'navBarBrand'}>
+              {/* // TODO */}
+              {/* <Link to={finalLogoLink} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
                   src={logo.image !== '' ? logo.image : logoImg}
                   alt={'logo'}
+                  // style="width:80px; height:60px;"
                 />
-              </Link>
-              <div
-                className={'headerTitle displayInline'}
-                dangerouslySetInnerHTML={{ __html: headerTitle }}
-              />
+              </Link> */}
+
+              <div>
+                <Link to="">
+                  {/* <img
+                    class="img-responsive"
+                    src="https://nsabita.com.np/wp-content/uploads/2021/05/cropped-Sabita-Neupane-logo.png"
+                    alt=""
+                  /> */}
+                  <p className='brand-text'> DevBucket</p>
+                </Link>
+              </div>
             </div>
             {config.header.social ? (
               <ul
@@ -124,6 +133,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 <Sidebar location={location} />
                 <hr />
               </div>
+              
               <ul className={'navBarUL navBarNav navBarULRight'}>
                 {headerLinks.map((link, key) => {
                   if (link.link !== '' && link.text !== '') {
@@ -181,12 +191,12 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
-                <li>
+                {/* <li>
                   <DarkModeSwitch
                     isDarkThemeActive={isDarkThemeActive}
                     toggleActiveTheme={toggleActiveTheme}
                   />
-                </li>
+                </li> */}
               </ul>
             </div>
           </nav>

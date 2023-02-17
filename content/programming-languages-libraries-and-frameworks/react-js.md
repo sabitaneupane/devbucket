@@ -4,13 +4,6 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-
-## Table of Content
-- Introduction to ReactJs
-- React Hooks
-- ContectAPI
-- StoryBook
-
 ## Introduction
 
 ## Resources

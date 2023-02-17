@@ -11,16 +11,16 @@ export const baseStyles = css`
   }
   ::-webkit-input-placeholder {
     /* Edge */
-    color: #c2c2c2;
+    color: #909da6;
   }
 
   :-ms-input-placeholder {
     /* Internet Explorer */
-    color: #c2c2c2;
+    color: #909da6;
   }
 
   ::placeholder {
-    color: #c2c2c2;
+    color: #909da6;
   }
   html,
   body {
@@ -76,7 +76,7 @@ export const baseStyles = css`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #EBF1F7;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -114,6 +114,12 @@ export const baseStyles = css`
   .githubIcon {
     width: 15px;
     margin-right: 5px;
+  }
+
+  .brand-text{
+    color: #0A5F63;
+    font-size: 20px;
+    font-weight: bolder;
   }
 
   .githubSection {
@@ -154,13 +160,13 @@ export const baseStyles = css`
     border: none;
   }
   .formElement svg path {
-    fill: #2fd2c5;
+    fill: #909da6;
   }
   .searchInput {
     width: 100%;
-    background-color: rgba(28,211,198,.12) !important;
-    border-width: 0 !important;
-    color: #C2C2C2;
+    background-color: #EBF1F7 !important;
+    border: 2px solid #909da6!important;
+    color: black!important;
     padding: 10px;
     border-radius: 5px;
     color: #fff;
@@ -257,7 +263,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #EBF1F7;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -374,7 +380,7 @@ export const baseStyles = css`
     font-family: 'Poppins';
     font-size: 18px;
     font-weight: 600;
-    color: #001934;
+    color: #EBF1F7;
     display: flex;
     align-items: center;
   }
@@ -384,7 +390,7 @@ export const baseStyles = css`
   }
 
   .sidebarTitle a {
-    color: #001934;
+    color: #EBF1F7;
   }
 
   .greenCircle {
@@ -417,6 +423,10 @@ export const baseStyles = css`
     width: 40px;
   }
 
+  .side-navbar-content{
+    backgroud: #EBF1F7 !important;
+  }
+  
   .sideBarUL {
     margin-top: 32px;
   }
@@ -450,14 +460,14 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #0A5F63;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
-    fill: #fff !important;
+    fill: #black !important;
   }
   .active .collapser > svg > path {
-    fill: #001933 !important;
+    fill: white !important;
   }
 
   .firstLevel ul .item ul .item {
@@ -470,7 +480,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #0A5F63;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -508,7 +518,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #0A5F63 !important;
     color: #fff;
   }
 
@@ -734,18 +744,18 @@ export const baseStyles = css`
 
   @media (max-width: 767px) {
     .formElement svg path {
-      fill: #001934;
+      fill: #EBF1F7;
     }
     .visibleMobileView {
       display: block !important;
     }
     .searchInput {
-      color: #001934;
+      color: #EBF1F7;
     }
     .socialWrapper {
       position: absolute;
       right: 10px;
-      top: 29px;
+      top: 15px;
     }
     .responsive {
       margin-top: 15px;
@@ -775,6 +785,7 @@ export const baseStyles = css`
     }
     .hiddenMobile {
       display: none !important;
+      backgroud: #EBF1F7 !important;
     }
     hr {
       margin-top: 0;
@@ -814,7 +825,7 @@ export const baseStyles = css`
       position: absolute;
       left: 11px;
       top: 15px;
-      background: #fff;
+      background: #0A5F63;
     }
 
     .navBarHeader {

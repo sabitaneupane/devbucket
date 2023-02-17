@@ -4,13 +4,7 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-# Daily Tech Dose: What is Software Design and Architecture
-
-[<< Go Back](../README.md)
-
-# learn-system-design-and-architecture
-
-## What is Software Design and Architecture
+## Introduction
 Software design and architecture refer to the high-level structures of a software system and the way in which those structures are used to solve a particular problem or achieve a set of goals.
 
 - **Software design** involves deciding how the different parts of a system will fit together and work towards a common goal. It involves creating abstractions and models that represent the different components of the system and their relationships.
@@ -26,19 +20,14 @@ Some common software design patterns include:
 
 Effective software design and architecture are important because they can help to improve the maintainability, scalability, and reliability of a software system. They can also make it easier for developers to understand and work with the code, which can increase development efficiency.
 
-## How to learn System Design and Architecture
+### How to learn System Design and Architecture
 Learning system design involves gaining an understanding of the concepts, techniques, and tools used to design complex software systems. 
 
 Learning system architecture involves gaining an understanding of the high-level structures of a software system and the way in which those structures are used to solve a particular problem or achieve a set of goals.
 
 Here are a few steps you can follow to learn **system design and architecture**:
 
-- **Familiarize yourself with the basics:** Start by learning about the fundamental concepts of software design and architecture, such as the 
-    - SOLID principles, 
-    - design patterns, and 
-    - data structures. 
-    
-    You can find resources online, such as tutorials, articles, and videos, or enroll in a course or program to learn these concepts in a structured way.
+- **Familiarize yourself with the basics:** Start by learning about the fundamental concepts of software design and architecture, such as the SOLID principles, design patterns, and data structures. You can find resources online, such as tutorials, articles, and videos, or enroll in a course or program to learn these concepts in a structured way.
 
 - **Practice designing systems:** Once you have a basic understanding of the concepts, try designing simple systems on your own. Start with small, self-contained systems and gradually work your way up to larger, more complex systems. This will help you get hands-on experience with the design process and give you a chance to apply what you have learned.
 
@@ -48,7 +37,7 @@ Here are a few steps you can follow to learn **system design and architecture**:
 
 - **Keep learning and improving:** System design is a continuous process, and there is always more to learn. Keep up with the latest trends and best practices, and be open to new ideas and approaches. Continuously improving your skills and knowledge will help you become a better software designer/architect.
 
-## Things to keep in mind as System Designers/Architects
+### Things to keep in mind as System Designers/Architects
 There are several things that system designers/architects should keep in mind as they design software systems:
 
 - **Requirements:** It's important to fully understand the requirements of the system you are designing. This includes not just the functional requirements, but also the non-functional requirements such as performance, scalability, security, and maintainability.
@@ -65,19 +54,7 @@ There are several things that system designers/architects should keep in mind as
 
 Overall, the key is to design a system that is scalable, performant, secure, maintainable, and flexible, while meeting the functional and non-functional requirements of the project.
 
-## Outline
-
-| Topics                               | Sub Topics |
-| :----------------------------------- | :--------- |
-| Stage 1: Clean code                  |            |
-| Stage 2: Programming Paradigms       |            |
-| Stage 3: Object-Oriented Programming |            |
-| Stage 4: Design Principles           |            |
-| Stage 5: Design Patterns             |            |
-| Stage 6: Architectural Principles    |            |
-| Stage 7: Architectural Styles        |            |
-| Stage 8: Architectural Patterns      |            |
-| Stage 9: Enterprise patterns         |            |
+## Table of content
 
 ## Resources
 - https://roadmap.sh/software-design-architecture

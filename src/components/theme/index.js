@@ -4,10 +4,11 @@ const baseTheme = {
   },
 };
 
+// TODO
 const lightTheme = {
   ...baseTheme,
   colors: {
-    background: '#fff',
+    background: '#ebf1f7',
     heading: '#000',
     text: '#3B454E',
     preFormattedText: 'rgb(245, 247, 249)',
@@ -15,6 +16,7 @@ const lightTheme = {
   },
 };
 
+// TODO
 const darkTheme = {
   ...baseTheme,
   colors: {

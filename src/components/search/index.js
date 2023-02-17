@@ -131,7 +131,7 @@ export default function SearchComponent({ indices, collapse, hitsAsGrid }) {
   return (
     <InstantSearch
       searchClient={searchClient}
-      indexName={indices[0].name}
+      indexName={indices && indices[0] && indices[0].name}
       onSearchStateChange={({ query }) => setQuery(query)}
       root={{ Root, props: { ref } }}
     >

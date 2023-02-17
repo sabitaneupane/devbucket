@@ -4,12 +4,12 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-# Daily Tech Dose: React Hooks
+# React Hooks
 
-[<< Go Back](../README.md)
+
 
 ## Table of content
-- [Daily Tech Dose: React Hooks](#daily-tech-dose-react-hooks)
+- [React Hooks](#react-hooks)
   - [Table of content](#table-of-content)
   - [Introduction](#introduction)
     - [Motivation of hooks](#motivation-of-hooks)
@@ -1253,4 +1253,4 @@ This is just a simple example, but you can use this approach to test any compone
 - [https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)
 
 ---
-[<< Go Back](../README.md)
+

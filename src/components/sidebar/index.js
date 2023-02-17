@@ -26,7 +26,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
     position: relative;
 
     &:hover {
-      color: #1ed3c6 !important;
+      color: #0a5f63 !important;
     }
 
     ${(props) =>
@@ -46,6 +46,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
 `;
 
 const Sidebar = styled('aside')`
+  backgroud: #ebf1f7 !important;
   width: 100%;
   height: 100vh;
   overflow: auto;
@@ -108,14 +109,14 @@ const SidebarLayout = ({ location }) => (
     `}
     render={({ allMdx }) => {
       return (
-        <Sidebar>
+        <Sidebar className="side-navbar-content">
           {config.sidebar.title ? (
             <div
               className={'sidebarTitle hiddenMobile'}
               dangerouslySetInnerHTML={{ __html: config.sidebar.title }}
             />
           ) : null}
-          <ul className={'sideBarUL'}>
+          <ul className={'sideBarUL side-navbar-content'}>
             <Tree edges={allMdx.edges} />
             {config.sidebar.links && config.sidebar.links.length > 0 && <Divider />}
             {config.sidebar.links.map((link, key) => {

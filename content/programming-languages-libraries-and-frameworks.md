@@ -4,9 +4,10 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-# Daily Tech Dose: Programming Language
 
-[<< Go Back](../README.md)
+## Introduction
+
+## Table of content
 
 ## Resources
 
@@ -14,6 +15,3 @@ metaDescription: ""
 - https://github.com/codingknite/frontend-development
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
-
----
-[<< Go Back](../README.md)
