@@ -9,21 +9,30 @@ metaDescription: ""
 ## Table of content
 
 - Introduction to Data Structure and Algorithm
+
 - Basic concepts and notations
+
 - NP-hard and NP-complete problems
+
 - Data Structure
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Matrix/Grid
-  - Stacks
-  - Queues
-  - Heap
-  - Hash
-  - Tree
-  - Graph
-  - Tuple and Sets
-  - Trie
+  - Built-in data structure
+    - Strings
+    - Arrays
+    - Lists
+    - Sets
+    - Maps/Dictionaries
+    - Queues
+    - Stacks
+    - Tuples
+
+  - Custom data structure
+    - Linked List
+    - Tree
+    - Graph
+    - Hash Table
+    - Heap
+    - Matrix/Grid
+    - Trie
   
 - Algorithm
   - Searching algorithms
