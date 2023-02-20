@@ -14,7 +14,7 @@
   - [ ] Why Key is important in looped content
   - [ ] State Management
   - [ ] Formik and Yup
-  - [ ] React Hooks and Custom Hooks - (In Progress)
+  - [x] React Hooks and Custom Hooks
   - [ ] Is <App> !== App() ?
 - [ ] NodeJS/ExpressJS
 - [ ] Typescript
@@ -70,25 +70,25 @@
 - [ ] ReactJS Developer
 - [ ] Backend Developer
 
-
 ## Software Design and Architecture
 
 - [x] Clean Code
 
-- [ ] Programming Paradigms
+- [x] Programming Paradigms
 
-  - [ ] Imperative programming
-  - [ ] Functional programming
-  - [ ] Object-oriented programming
-  - [ ] Logic programming
-  - [ ] Declarative programming
+  - [x] Imperative programming
+    - [x] Procedural Programming
+    - [x] Object-oriented programming
+  - [x] Declarative programming
+    - [x] Functional programming
+    - [x] Logic programming
 
 - [ ] Object-Oriented Design and Principles
 
 - [ ] Design Principles
 
   - [ ] SOLID principles
-    - [ ] Single Responsibility Principle
+    - [ ] Single Respoznsibility Principle
     - [ ] Open/Closed Principle
     - [ ] Liskov Substitution Principle
     - [ ] Interface Segregation Principle
@@ -398,7 +398,7 @@
   - [ ] Scalability and availability with containerization
   - [ ] Cloud-based containerization solutions
 
-## Data Structure and Algorithm
+# Data Structure and Algorithm
 
 Introduction to Data Structure and Algorithm
 
@@ -463,7 +463,7 @@ Searching algorithms:
   - [ ] Linear Search
   - [ ] Binary Search
   - [ ] Ternary Search
-- [ ] Other searching algorithms :
+- [ ] Other searching algorithms:
   - [ ] Jump Search
   - [ ] Interpolation Search
   - [ ] Exponential Search
@@ -650,7 +650,7 @@ Advanced topics:
 - [ ] Approximation algorithms
 - [ ] NP-hard and NP-complete problems
 
-## Interview in FAANG companies
+# Interview in FAANG companies
 
 Data Structures:
 
@@ -709,7 +709,7 @@ Others:
 - [ ] Study the basics of cloud computing.
 
 
-## System Design and Architecture
+# System Design and Architecture
 
 - https://github.com/puncsky/system-design-and-architecture
 - https://github.com/madd86/awesome-system-design
@@ -717,7 +717,6 @@ Others:
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/donnemartin/system-design-primer
 
-## FAANG Interview
+# FAANG Interview
 
 - https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
-

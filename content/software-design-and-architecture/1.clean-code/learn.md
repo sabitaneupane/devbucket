@@ -4,7 +4,6 @@ metaTitle: "Clean Code Daily Read | DevBucket"
 metaDescription: ""
 ---
 
-
 ## Day 1: Benefits of Clean Code
 
 ### Benefits of Clean Code: Understanding the Advantages of Organized and Readable Code.
