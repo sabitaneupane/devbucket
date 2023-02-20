@@ -397,7 +397,7 @@
   - [ ] Scalability and availability with containerization
   - [ ] Cloud-based containerization solutions
 
-## Data Structure and Algorithm
+# Data Structure and Algorithm
 
 Introduction to Data Structure and Algorithm
 
@@ -462,7 +462,7 @@ Searching algorithms:
   - [ ] Linear Search
   - [ ] Binary Search
   - [ ] Ternary Search
-- [ ] Other searching algorithms :
+- [ ] Other searching algorithms:
   - [ ] Jump Search
   - [ ] Interpolation Search
   - [ ] Exponential Search
@@ -649,7 +649,7 @@ Advanced topics:
 - [ ] Approximation algorithms
 - [ ] NP-hard and NP-complete problems
 
-## Interview in FAANG companies
+# Interview in FAANG companies
 
 Data Structures:
 
@@ -708,7 +708,7 @@ Others:
 - [ ] Study the basics of cloud computing.
 
 
-## System Design and Architecture
+# System Design and Architecture
 
 - https://github.com/puncsky/system-design-and-architecture
 - https://github.com/madd86/awesome-system-design
@@ -716,7 +716,6 @@ Others:
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/donnemartin/system-design-primer
 
-## FAANG Interview
+# FAANG Interview
 
 - https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
-
