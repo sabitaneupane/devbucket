@@ -74,20 +74,21 @@
 
 - [x] Clean Code
 
-- [ ] Programming Paradigms
+- [x] Programming Paradigms
 
-  - [ ] Imperative programming
-  - [ ] Functional programming
-  - [ ] Object-oriented programming
-  - [ ] Logic programming
-  - [ ] Declarative programming
+  - [x] Imperative programming
+    - [x] Procedural Programming
+    - [x] Object-oriented programming
+  - [x] Declarative programming
+    - [x] Functional programming
+    - [x] Logic programming
 
 - [ ] Object-Oriented Design and Principles
 
 - [ ] Design Principles
 
   - [ ] SOLID principles
-    - [ ] Single Responsibility Principle
+    - [ ] Single Respoznsibility Principle
     - [ ] Open/Closed Principle
     - [ ] Liskov Substitution Principle
     - [ ] Interface Segregation Principle
