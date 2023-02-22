@@ -9,11 +9,8 @@ metaDescription: ""
 ## Table of content
 
 - Introduction to Data Structure and Algorithm
-
 - Basic concepts and notations
-
 - NP-hard and NP-complete problems
-
 - Data Structure
   - Built-in data structure
     - Strings
@@ -24,7 +21,6 @@ metaDescription: ""
     - Queues
     - Stacks
     - Tuples
-
   - Custom data structure
     - Linked List
     - Tree
@@ -33,7 +29,6 @@ metaDescription: ""
     - Heap
     - Matrix/Grid
     - Trie
-  
 - Algorithm
   - Searching algorithms
   - Sorting algorithms

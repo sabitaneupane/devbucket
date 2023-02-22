@@ -402,17 +402,16 @@
 
 - [x] Introduction to Data Structure and Algorithm
 
-- [ ] Basic concepts and notations:
+- [x] Basic concepts and notations:
 
-  - [ ] Complexities
-    - [ ] Time complexity
-    - [ ] Space complexity
-  - [ ] Asymptotic analysis using Big O notation
-    - [ ] Big-O Notation (Ο)
-    - [ ] Omega Notation (Ω)
-    - [ ] Theta Notation (θ)
-  - [ ] Recurrence relations
-  - [ ] Greedy algorithms
+  - [x] Complexities
+    - [x] Time complexity
+    - [x] Space complexity
+  - [x] Asymptotic analysis using Big O notation
+    - [x] Big-O Notation (Ο)
+    - [x] Omega Notation (Ω)
+    - [x] Theta Notation (θ)
+  - [x] Recurrence relations
 
 Arrays:
 
