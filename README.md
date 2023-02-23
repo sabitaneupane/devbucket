@@ -18,7 +18,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 > Find resources for popular programming languages, libraries, and frameworks, including:
 
-- [HTML](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/html){:target="_blank" rel="noopener"}
+- [HTML](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/html)
 - [JavaScript](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/javascript)
 - [GO](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/go)
 - [NodeJs](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/node-js)
@@ -56,5 +56,4 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
 
-Live Demo: <a href="https://example.com" target="_blank" rel="noopener">demo</a>
-
+Live Demo: <a href="https://nsabita.com.np" target="_blank" rel="noopener">demo</a>
