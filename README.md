@@ -56,5 +56,5 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
 
-Live Demo: <a href="https://example.com" :target="_blank" rel="noopener">demo</a>
+Live Demo: <a href="https://example.com" target="_blank" rel="noopener">demo</a>
 
