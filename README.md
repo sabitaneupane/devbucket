@@ -13,11 +13,12 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [5. Data Structure and Algorithm](#5-data-structure-and-algorithm)
 
 ---
+
 ## 1. [Programming Languages, Libraries and Frameworks](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks)
 
 > Find resources for popular programming languages, libraries, and frameworks, including:
 
-- [HTML](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/html)
+- [HTML](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/html){:target="_blank" rel="noopener"}
 - [JavaScript](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/javascript)
 - [GO](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/go)
 - [NodeJs](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/node-js)
@@ -54,3 +55,6 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
+
+Live Demo: <a href="https://example.com" :target="_blank" rel="noopener">demo</a>
+
