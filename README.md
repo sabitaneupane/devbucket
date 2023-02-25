@@ -14,44 +14,44 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 1. [Programming Languages, Libraries and Frameworks](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks)
+## 1. [Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
 
 > Find resources for popular programming languages, libraries, and frameworks, including:
 
-- [HTML](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/html)
-- [JavaScript](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/javascript)
-- [GO](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/go)
-- [NodeJs](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/node-js)
-- [ReactJs](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/react-js)
-  - [React Hooks](https://sabitaneupane.github.io/devbucket/programming-languages-libraries-and-frameworks/react-js/reack-hooks)
+- [HTML](./content/programming-languages-libraries-and-frameworks/html.md)
+- [JavaScript](./content/programming-languages-libraries-and-frameworks/javascript.md)
+- [GO](./content/programming-languages-libraries-and-frameworks/go.md)
+- [NodeJs](./content/programming-languages-libraries-and-frameworks/node-js.md)
+- [ReactJs](./content/programming-languages-libraries-and-frameworks/react-js.md)
+  - [React Hooks](./content/programming-languages-libraries-and-frameworks/react-js/reack-hooks.md)
 
 
-## 2. [Software Design and Architecture](https://sabitaneupane.github.io/devbucket/software-design-and-architecture)
+## 2. [Software Design and Architecture](./content/software-design-and-architecture.md)
 
 > Discover resources on software design and architecture, including:
 
-- [Clean Code](https://sabitaneupane.github.io/devbucket/software-design-and-architecture/1.clean-code)
-  - [Clean Code Daily Read](https://sabitaneupane.github.io/devbucket/software-design-and-architecture/1.clean-code/learn)
-- [Programming Paradigms](https://sabitaneupane.github.io/devbucket/software-design-and-architecture/2.programming-paradigms)
+- [Clean Code](./content/software-design-and-architecture/1.clean-code.md)
+  - [Clean Code Daily Read](./content/software-design-and-architecture/1.clean-code/learn.md)
+- [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
 
-## 3. [Web Application Design, Principles and Architecture](https://sabitaneupane.github.io/devbucket/web-application-design-principles-and-architecture)
+## 3. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
 
 > Explore resources on web application design, principles, and architecture, including:
 
-- [Web Application Development](https://sabitaneupane.github.io/devbucket/web-application-design-principles-and-architecture/1.web-application-development)
-- [Web Application Security and Threat Protection](https://sabitaneupane.github.io/devbucket/web-application-design-principles-and-architecture/2.web-application-security)
+- [Web Application Development](./content/web-application-design-principles-and-architecture/1.web-application-development.md)
+- [Web Application Security and Threat Protection](./content/web-application-design-principles-and-architecture/2.web-application-security.md)
 
 
-## 4. [System Design and Architecture](https://sabitaneupane.github.io/devbucket/system-design-and-architecture)
+## 4. [System Design and Architecture](./content/system-design-and-architecture.md)
 
 > Get resources for system design and architecture.
 
-## 5. [Data Structure and Algorithm](https://sabitaneupane.github.io/devbucket/data-structure-and-algorithm)
+## 5. [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
 
 > Find resources for data structures and algorithms, including:
 
-- [Introduction to Data Structure and Algorithm](https://sabitaneupane.github.io/devbucket/data-structure-and-algorithm/1.introduction)
-- [Complexities and Notations](https://sabitaneupane.github.io/devbucket/data-structure-and-algorithm/2.complexities-and-notations)
+- [Introduction to Data Structure and Algorithm](./content/data-structure-and-algorithm/1.introduction.md)
+- [Complexities and Notations](./content/data-structure-and-algorithm/2.complexities-and-notations.md)
 
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**

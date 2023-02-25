@@ -18,3 +18,7 @@ metaDescription: ""
 - https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions
 - https://github.com/alok722/namaste-javascript-notes
 - https://github.com/bradtraversy/vanillawebprojects
+- https://github.com/wesbos/JavaScript30
+- https://github.com/loverajoel/jstips
+- https://github.com/lydiahallie/javascript-questions
+- https://github.com/airbnb/javascript

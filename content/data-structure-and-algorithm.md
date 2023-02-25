@@ -9,8 +9,7 @@ metaDescription: ""
 ## Table of content
 
 - Introduction to Data Structure and Algorithm
-- Basic concepts and notations
-- NP-hard and NP-complete problems
+- Complexities and Notations
 - Data Structure
   - Built-in data structure
     - Strings
@@ -47,4 +46,10 @@ metaDescription: ""
   - Approximation algorithms
   - Sliding Window algorithms
 
+## Visual 
+
+- https://visualgo.net/en
+
 ## Resources
+
+- https://github.com/trekhleb/javascript-algorithms
