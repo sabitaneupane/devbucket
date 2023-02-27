@@ -35,7 +35,7 @@ const menuList = [
   '/programming-languages-libraries-and-frameworks',
   '/software-design-and-architecture',
   '/web-application-design-principles-and-architecture',
-  '/system-design-principles-and-architecture',
+  '/system-design-and-architecture',
   '/data-structure-and-algorithm',
 ];
 
