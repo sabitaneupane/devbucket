@@ -73,15 +73,28 @@
 ## Software Design and Architecture
 
 - [x] Clean Code
-
 - [x] Programming Paradigms
 
-  - [x] Imperative programming
-    - [x] Procedural Programming
-    - [x] Object-oriented programming
-  - [x] Declarative programming
-    - [x] Functional programming
-    - [x] Logic programming
+- [ ] Object Oriented Programming
+  - [ ] Classes and objects
+  - [ ] Encapsulation
+  - [ ] Inheritance
+  - [ ] Polymorphism
+  - [ ] Abstraction
+  - [ ] Interfaces
+  - [ ] Method overloading and overriding
+  - [ ] Access modifiers
+  - [ ] Constructors and destructors
+  - [ ] Object-oriented analysis and design
+  - [ ] Design patterns
+  - [ ] Object-oriented programming principles (SOLID)
+  - [ ] Exception handling
+  - [ ] Generics and collections
+  - [ ] Lambda expressions and functional programming in OOP
+  - [ ] Reflection and metadata
+  - [ ] Multi-threading in OOP
+  - [ ] Testing and debugging OOP code
+  - [ ] GUI programming using OOP.
 
 - [ ] Object-Oriented Design and Principles
 
@@ -400,23 +413,47 @@
 
 # Data Structure and Algorithm
 
-Introduction to Data Structure and Algorithm
+- [x] Introduction to Data Structure and Algorithm
 
-- [ ] DSA Introduction
-- [ ] What is an algorithm?
-- [ ] Data Structure and Types
+- [x] Complexities and notations:
 
-Basic concepts and notations:
+- [ ] Data Structure
+  - [ ] Built-in data structure
+    - [ ] Strings
+    - [ ] Arrays
+    - [ ] Lists
+    - [ ] Sets
+    - [ ] Maps/Dictionaries
+    - [ ] Queues
+    - [ ] Stacks
+    - [ ] Tuples
+  - [ ] Custom data structure
+    - [ ] Linked List
+    - [ ] Tree
+    - [ ] Graph
+    - [ ] Hash Table
+    - [ ] Heap
+    - [ ] Matrix/Grid
+    - [ ] Trie
+- [ ] Algorithm
+  - [ ] Searching algorithms
+  - [ ] Sorting algorithms
+  - [ ] Divide and conquer algorithms
+  - [ ] Greedy methodology
+  - [ ] Recursion
+  - [ ] Backtracking algorithm
+  - [ ] Dynamic Programming
+  - [ ] Pattern Searching
+  - [ ] Mathematical algorithms
+  - [ ] Geometric algorithms
+  - [ ] Bitwise algorithms
+  - [ ] Randomized algorithms
+  - [ ] Branch and Bound algorithm
+  - [ ] Math and Bit Manipulation
+  - [ ] Approximation algorithms
+  - [ ] Sliding Window algorithms
 
-- [ ] Complexities
-  - [ ] Time complexity
-  - [ ] Space complexity
-- [ ] Asymptotic analysis using Big O notation
-  - [ ] Big-O Notation (Ο)
-  - [ ] Omega Notation (Ω)
-  - [ ] Theta Notation (θ)
-- [ ] Recurrence relations
-- [ ] Greedy algorithms
+### Sub-topics
 
 Arrays:
 
@@ -720,3 +757,45 @@ Others:
 # FAANG Interview
 
 - https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
+
+
+# JWT Token
+
+Introduction to JWT Token
+  What is JWT Token?
+  Why JWT Token is used?
+  Benefits of using JWT Token
+
+Understanding JWT Token
+  Anatomy of JWT Token
+  JWT Header
+  JWT Payload
+  JWT Signature
+
+JWT Authentication Flow
+  How JWT Token is generated?
+  How JWT Token is used for authentication?
+  How JWT Token is validated?
+
+JWT Best Practices
+  How to securely store JWT Tokens?
+  How to prevent token theft?
+  How to prevent token tampering?
+  How to prevent token replay attacks?
+  How to prevent token expiration?
+
+Implementing JWT Token in a web application
+  Adding JWT Token to HTTP Header
+  Verifying JWT Token on server-side
+  Refreshing JWT Token
+  Revoking JWT Token
+
+Comparing JWT Token with other authentication mechanisms
+  Basic Authentication
+  Session-Based Authentication
+  OAuth2
+
+Conclusion
+  Recap of what was covered in the post
+  Final thoughts on JWT Token
+  Future trends in JWT Token

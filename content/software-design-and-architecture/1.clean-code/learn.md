@@ -676,9 +676,6 @@ In this example, the function `calculateAverage` has comments and documentation,
 
 #CleanCode #SelfExplanatoryCode #CodeDocumentation #CodeReadability #CodeMaintenance #CodeModification #CodeOrganization #SOLIDPrinciples #CodeLinting #VersionControl #AutomatedTests #CodeIndentation #CodeOrganization
 
----
-
-
 
 ---
 
