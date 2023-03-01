@@ -85,32 +85,10 @@
   - [ ] Method overloading and overriding
   - [ ] Access modifiers
   - [ ] Constructors and destructors
-  - [ ] Object-oriented analysis and design
-  - [ ] Design patterns
-  - [ ] Object-oriented programming principles (SOLID)
   - [ ] Exception handling
   - [ ] Generics and collections
-  - [ ] Lambda expressions and functional programming in OOP
-  - [ ] Reflection and metadata
-  - [ ] Multi-threading in OOP
-  - [ ] Testing and debugging OOP code
-  - [ ] GUI programming using OOP.
 
-- [ ] Object-Oriented Design and Principles
-
-- [ ] Design Principles
-
-  - [ ] SOLID principles
-    - [ ] Single Respoznsibility Principle
-    - [ ] Open/Closed Principle
-    - [ ] Liskov Substitution Principle
-    - [ ] Interface Segregation Principle
-    - [ ] Dependency Inversion Principle
-  - [ ] KISS (Keep It Simple, Stupid)
-  - [ ] DRY (Don’t Repeat Yourself)
-  - [ ] YAGNI (You Ain’t Gonna Need It)
-  - [ ] LoD (Law of Demeter)
-  - [ ] Separation of Concerns (SoC)
+- [x] Software Design Principles
 
 - [ ] Design Patterns
   - [ ] Creational patterns
@@ -297,11 +275,20 @@
   - [ ] Database performance optimization
   
 - [ ] Architecture Design Documentation
-  - [ ] UML diagrams (e.g. use case, class, sequence, activity diagrams)
+  - [ ] Object-oriented Analysis and Design
+    - [ ] Domain modeling and analysis
+    - [ ] UML (Unified Modeling Language) diagrams: 
+      - [ ] Class diagrams, 
+      - [ ] Use case diagrams, 
+      - [ ] Activity diagrams
+      - [ ] Sequence diagrams, and 
+      - [ ] State diagrams
+  - [ ] Cohesion and coupling
+  - [ ] Use case analysis and design
   - [ ] System architecture diagrams (e.g. component, deployment, data flow diagrams)
   - [ ] Design patterns and anti-patterns
   - [ ] Design review and approval processes
-  - [ ] ersion control and documentation management tools
+  - [ ] Version control and documentation management tools
 
 - [ ] Concurrent and Parallel Systems Design
   - [ ] Multithreading and multiprocessing

@@ -33,6 +33,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Clean Code](./content/software-design-and-architecture/1.clean-code.md)
   - [Clean Code Daily Read](./content/software-design-and-architecture/1.clean-code/learn.md)
 - [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
+- [Object Oriented Programming](./content/software-design-and-architecture/3.object-oriented-programming.md)
+- [Software Design Principles](./content/software-design-and-architecture/4.software-design-principles.md)
 
 ## 3. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
 
