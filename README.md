@@ -39,10 +39,12 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-
 ## 3. [System Design and Architecture](./content/system-design-and-architecture.md)
 
 **Get resources for system design and architecture.**
+
+- [Database Design and Management](./content/system-design-and-architecture/1.database-design-and-management.md)
+- [Architecture Design Documentation](./content/system-design-and-architecture/2.architecture-design-documentation.md)
 
 ---
 

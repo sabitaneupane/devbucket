@@ -8,5 +8,7 @@ metaDescription: ""
 
 ## Topics
 
+- Database Design and Management
+- Architecture Design Documentation
 
 ## Resources
