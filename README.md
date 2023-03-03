@@ -36,7 +36,20 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
 - [Object Oriented Programming](./content/software-design-and-architecture/3.object-oriented-programming.md)
 - [Software Design Principles](./content/software-design-and-architecture/4.software-design-principles.md)
-
+  - [Solid Principles](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md)
+    - [Single Responsibility Principle (SRP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#single-responsibility-principle-srp)
+    - [Open-Closed Principle (OCP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#open-closed-principle-ocp)
+    - [Liskov Substitution Principle (LSP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#liskov-substitution-principle-lsp)
+    - [Interface Segregation Principle (ISP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#interface-segregation-principle-isp)
+    - [Dependency Inversion Principle (DIP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#dependency-inversion-principle-dip)
+  - [DRY (Don't Repeat Yourself)](./content/software-design-and-architecture/4.software-design-principles.md/#dry-dont-repeat-yourself)
+  - [YAGNI (You Ain't Gonna Need It)](./content/software-design-and-architecture/4.software-design-principles.md/#yagni-you-aint-gonna-need-it)
+  - [LoD (Law of Demeter)](./content/software-design-and-architecture/4.software-design-principles.md/#lod-law-of-demeter)
+  - [Separation of Concerns (SoC)](./content/software-design-and-architecture/4.software-design-principles.md/#separation-of-concerns-soc)
+  - [Composition over Inheritance](./content/software-design-and-architecture/4.software-design-principles.md/#composition-over-inheritance)
+  - [Encapsulate What Varies](./content/software-design-and-architecture/4.software-design-principles.md/#encapsulate-what-varies)
+  - [Program Against Abstractions](./content/software-design-and-architecture/4.software-design-principles.md/#program-against-abstractions)
+  - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
 ---
 
 ## 3. [System Design and Architecture](./content/system-design-and-architecture.md)
@@ -64,5 +77,6 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Complexities and Notations](./content/data-structure-and-algorithm/1.complexities-and-notations.md)
 - [Data Structure](./content/data-structure-and-algorithm/2.data-structure.md)
   - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
+  - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
