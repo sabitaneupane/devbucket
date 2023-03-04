@@ -47,7 +47,7 @@
 - [ ] Postman
 - [ ] JMeter
 
-## Techinal Skills
+## Techinal Skills/Career
 
 - [ ] UI/UX Design
 - [ ] Wordpress Development
@@ -62,6 +62,7 @@
 - [ ] Tech Lead
 - [ ] Digital Marketing
 - [ ] Graphics Design
+- [x] Chrome Extension
 
 ## Interview Preparation
 

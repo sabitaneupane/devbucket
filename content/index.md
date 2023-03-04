@@ -11,3 +11,4 @@ DevBucket is go-to daily resource for everything related to programming, includi
 - Web Application Design, Principles and Architecture
 - System Design and Architecture
 - Data Structure and Algorithm
+- Technical Career Path and Guide

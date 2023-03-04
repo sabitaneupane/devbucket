@@ -11,6 +11,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [3. System Design and Architecture](#3-system-design-and-architecture)
   - [4. Web Application Design, Principles and Architecture](#4-web-application-design-principles-and-architecture)
   - [5. Data Structure and Algorithm](#5-data-structure-and-algorithm)
+  - [6. Technical Career Path and Guide](#6-technical-career-path-and-guide)
 
 ---
 
@@ -78,5 +79,11 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Data Structure](./content/data-structure-and-algorithm/2.data-structure.md)
   - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
   - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
+
+---
+
+## 6. [Technical Career Path and Guide](./content/technical-career-path-and-guide)
+
+- [Chrome Extension Development]()
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
