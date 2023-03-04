@@ -4,9 +4,53 @@ metaTitle: "Data Structure and Algorithm | DevBucket"
 metaDescription: ""
 ---
 
-## Introduction
+## Introduction to Data Structure and Algorithm
 
-## Table of content
+Data structures and algorithms are two fundamental concepts in computer science and programming.
+
+A data structure is a way of organizing and storing data in a computer program so that it can be used efficiently. It provides a framework for storing and manipulating data, and choosing the right data structure can significantly affect the performance and efficiency of a program. Common data structures include arrays, linked lists, stacks, queues, trees, graphs, hash tables, heaps, and sets.
+
+An algorithm, on the other hand, is a set of instructions for performing a specific task or solving a problem. It's a step-by-step procedure that takes an input, performs a sequence of operations on the input, and produces an output. Algorithms are used to solve problems in various domains, such as search, sorting, optimization, and machine learning. Common algorithms include linear search, binary search, bubble sort, merge sort, quicksort, Dijkstra's algorithm, and k-means clustering.
+
+Data structures and algorithms are interrelated concepts because choosing the right data structure can significantly affect the performance of an algorithm. For example, if we need to perform a search operation on a large collection of data, using a binary search algorithm on a sorted array can be much faster than using a linear search algorithm on an unsorted array.
+
+In summary, data structures provide a framework for organizing and storing data, while algorithms provide a set of instructions for performing a specific task or solving a problem. Choosing the right data structure and algorithm can significantly affect the performance and efficiency of a program.
+
+## Examples:
+
+ | Use Cases                          | Data Structure                                                         |
+ | ---------------------------------- | ---------------------------------------------------------------------- |
+ | DOM                                | `Tree` Data Structure                                                  |
+ | Browser back and forward           | `Stack` Data Structure                                                 |
+ | OS job scheduling                  | `Queue` Data Structure                                                 |
+ | Symbol table for compilers         | `Hash Table` Data Structure                                            |
+ | Undo/Redo feature in a text editor | `Stack` Data Structure                                                 |
+ | Phone book                         | `Trie` Data Structure                                                  |
+ | Phone book                         | `Trie` Data Structure                                                  |
+ | Finding shortest path in a network | `Graph` Data Structure with algorithms like Dijkstra's or Bellman-Ford |
+
+
+## Linear vs Non-linear data structures
+
+### Linear data structure
+
+A linear data structure is a data structure where the data elements are arranged in a sequential manner. The linear structure implies that the data elements are organized in a linear sequence, such as a straight line, with each element having a unique predecessor and successor, except for the first and last elements. In a linear data structure, traversal of the elements is done in a sequential manner, starting from the first element and ending at the last element.
+
+Linear data structures are generally easy to implement and operate on, making them popular for simple operations like insertion, deletion, and traversal. However, they are not always efficient for more complex operations like searching, sorting, and indexing.
+
+Some common examples of linear data structures include: Array, Linked list, Stack, Queue, Hash Table
+
+### Non-linear data structures
+
+A non-linear data structure is a data structure where the data elements are not arranged in a sequential manner. In other words, there is no linear sequence of data elements, and the relationship between the elements is not necessarily hierarchical or one-dimensional. Non-linear data structures are often used to represent complex relationships and are suitable for representing data with multiple levels of relationships.
+
+ In a tree, each node has one or more child nodes, forming a hierarchical structure. In a graph, nodes can have multiple connections to other nodes, forming a complex network. In a heap, the elements are organized in a hierarchical order, with the root element having the highest priority.
+
+Non-linear data structures are often used for complex operations like searching, sorting, and indexing. They are generally more complex to implement and operate on than linear data structures but can offer better performance for certain types of operations.
+
+Some common examples of non-linear data structures include: Tree, Heap, Graph, Trie
+
+## Topics
 
 - Introduction to Data Structure and Algorithm
 - Complexities and Notations
@@ -45,46 +89,6 @@ metaDescription: ""
   - Math and Bit Manipulation
   - Approximation algorithms
   - Sliding Window algorithms
-
-
-## Few Key Terms
-
-### Two-pointer approach
-
-The two-pointer approach is a technique commonly used in computer programming to optimize algorithms that require traversing through a sequence of elements, such as an array or a linked list. This technique involves using two pointers or indices that move through the sequence in opposite directions, either towards each other or in a parallel manner.
-
-In the two-pointer approach, one pointer starts at the beginning of the sequence, while the other pointer starts at the end of the sequence. The pointers then move towards each other until they meet in the middle, or until a certain condition is met. This approach can be used to optimize algorithms that require searching, sorting, or manipulating elements in a sequence.
-
-For example, in the context of reversing a string, the two-pointer approach involves using two pointers, one at the beginning and one at the end of the string, and swapping the characters at each position until the pointers meet in the middle. This approach has a time complexity of O(n/2), which is better than the O(n) time complexity of the approach that creates a new string or array. Overall, the two-pointer approach can be a powerful optimization technique for a wide range of programming problems.
-
-
-```JS
-// Reversing a string
-const reverseStr = (str) => {
-  let ch = str.split('');
-  let start = 0;
-  let end = str.length - 1;
-
-  while (start < end) {
-    let temp = ch[start];
-    ch[start] = ch[end];
-    ch[end] = temp;
-    start++;
-    end--;
-  }
-
-  return ch.join('');
-};
-
-let str = 'data structure';
-console.log(reverseStr(str));
-
-// Output:
-// erutcurts atad
-
-// Time Complexity: O(n) 
-// Space Complexity: O(n)
-```
 
 ## Visual 
 

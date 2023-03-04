@@ -54,7 +54,12 @@ There are several things that system designers/architects should keep in mind as
 
 Overall, the key is to design a system that is scalable, performant, secure, maintainable, and flexible, while meeting the functional and non-functional requirements of the project.
 
-## Table of content
+## Topics
+
+- Clean Code
+- Programming Paradigms
+- Object Oriented Programming
+- Software Design Principles
 
 ## Resources
 - https://roadmap.sh/software-design-architecture

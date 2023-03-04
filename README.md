@@ -8,15 +8,15 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Table of content](#table-of-content)
   - [1. Programming Languages, Libraries and Frameworks](#1-programming-languages-libraries-and-frameworks)
   - [2. Software Design and Architecture](#2-software-design-and-architecture)
-  - [3. Web Application Design, Principles and Architecture](#3-web-application-design-principles-and-architecture)
-  - [4. System Design and Architecture](#4-system-design-and-architecture)
+  - [3. System Design and Architecture](#3-system-design-and-architecture)
+  - [4. Web Application Design, Principles and Architecture](#4-web-application-design-principles-and-architecture)
   - [5. Data Structure and Algorithm](#5-data-structure-and-algorithm)
 
 ---
 
 ## 1. [Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
 
-> Find resources for popular programming languages, libraries, and frameworks, including:
+**Find resources for popular programming languages, libraries, and frameworks, including:**
 
 - [HTML](./content/programming-languages-libraries-and-frameworks/html.md)
 - [JavaScript](./content/programming-languages-libraries-and-frameworks/javascript.md)
@@ -25,33 +25,58 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [ReactJs](./content/programming-languages-libraries-and-frameworks/react-js.md)
   - [React Hooks](./content/programming-languages-libraries-and-frameworks/react-js/reack-hooks.md)
 
+---
 
 ## 2. [Software Design and Architecture](./content/software-design-and-architecture.md)
 
-> Discover resources on software design and architecture, including:
+**Discover resources on software design and architecture, including:**
 
 - [Clean Code](./content/software-design-and-architecture/1.clean-code.md)
   - [Clean Code Daily Read](./content/software-design-and-architecture/1.clean-code/learn.md)
 - [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
+- [Object Oriented Programming](./content/software-design-and-architecture/3.object-oriented-programming.md)
+- [Software Design Principles](./content/software-design-and-architecture/4.software-design-principles.md)
+  - [Solid Principles](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md)
+    - [Single Responsibility Principle (SRP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#single-responsibility-principle-srp)
+    - [Open-Closed Principle (OCP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#open-closed-principle-ocp)
+    - [Liskov Substitution Principle (LSP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#liskov-substitution-principle-lsp)
+    - [Interface Segregation Principle (ISP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#interface-segregation-principle-isp)
+    - [Dependency Inversion Principle (DIP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#dependency-inversion-principle-dip)
+  - [DRY (Don't Repeat Yourself)](./content/software-design-and-architecture/4.software-design-principles.md/#dry-dont-repeat-yourself)
+  - [YAGNI (You Ain't Gonna Need It)](./content/software-design-and-architecture/4.software-design-principles.md/#yagni-you-aint-gonna-need-it)
+  - [LoD (Law of Demeter)](./content/software-design-and-architecture/4.software-design-principles.md/#lod-law-of-demeter)
+  - [Separation of Concerns (SoC)](./content/software-design-and-architecture/4.software-design-principles.md/#separation-of-concerns-soc)
+  - [Composition over Inheritance](./content/software-design-and-architecture/4.software-design-principles.md/#composition-over-inheritance)
+  - [Encapsulate What Varies](./content/software-design-and-architecture/4.software-design-principles.md/#encapsulate-what-varies)
+  - [Program Against Abstractions](./content/software-design-and-architecture/4.software-design-principles.md/#program-against-abstractions)
+  - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
+---
 
-## 3. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
+## 3. [System Design and Architecture](./content/system-design-and-architecture.md)
 
-> Explore resources on web application design, principles, and architecture, including:
+**Get resources for system design and architecture.**
+
+- [Database Design and Management](./content/system-design-and-architecture/1.database-design-and-management.md)
+- [Architecture Design Documentation](./content/system-design-and-architecture/2.architecture-design-documentation.md)
+
+---
+
+## 4. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
+
+**Explore resources on web application design, principles, and architecture, including:**
 
 - [Web Application Development](./content/web-application-design-principles-and-architecture/1.web-application-development.md)
 - [Web Application Security and Threat Protection](./content/web-application-design-principles-and-architecture/2.web-application-security.md)
 
-
-## 4. [System Design and Architecture](./content/system-design-and-architecture.md)
-
-> Get resources for system design and architecture.
+---
 
 ## 5. [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
 
-> Find resources for data structures and algorithms, including:
+**Find resources for data structures and algorithms, including:**
 
-- [Introduction to Data Structure and Algorithm](./content/data-structure-and-algorithm/1.introduction.md)
-- [Complexities and Notations](./content/data-structure-and-algorithm/2.complexities-and-notations.md)
-
+- [Complexities and Notations](./content/data-structure-and-algorithm/1.complexities-and-notations.md)
+- [Data Structure](./content/data-structure-and-algorithm/2.data-structure.md)
+  - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
+  - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**

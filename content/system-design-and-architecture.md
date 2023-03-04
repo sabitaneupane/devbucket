@@ -6,6 +6,9 @@ metaDescription: ""
 
 ## Introduction
 
-## Table of content
+## Topics
+
+- Database Design and Management
+- Architecture Design Documentation
 
 ## Resources
