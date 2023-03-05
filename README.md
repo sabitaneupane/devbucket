@@ -84,6 +84,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ## 6. [Technical Career Path and Guide](./content/technical-career-path-and-guide)
 
+**Explore technical career path and guides:**
+
 - [Chrome Extension Development]()
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
