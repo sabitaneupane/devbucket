@@ -25,6 +25,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [NodeJs](./content/programming-languages-libraries-and-frameworks/node-js.md)
 - [ReactJs](./content/programming-languages-libraries-and-frameworks/react-js.md)
   - [React Hooks](./content/programming-languages-libraries-and-frameworks/react-js/reack-hooks.md)
+- [SQL](./content/programming-languages-libraries-and-frameworks/sql.md)
 
 ---
 
@@ -68,7 +69,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [Web Application Development](./content/web-application-design-principles-and-architecture/1.web-application-development.md)
 - [Web Application Security and Threat Protection](./content/web-application-design-principles-and-architecture/2.web-application-security.md)
-
+  - [JWT Token](./content/web-application-design-principles-and-architecture.md/../web-application-design-principles-and-architecture/2.web-application-security/1.json-web-tokens.md)
 ---
 
 ## 5. [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
@@ -84,8 +85,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ## 6. [Technical Career Path and Guide](./content/technical-career-path-and-guide)
 
-**Explore technical career path and guides:**
+**Explore technical career path and guides, including:**
 
-- [Chrome Extension Development]()
+- [Chrome Extension Development](./content/technical-career-path-and-guide/1.chrome-extension-development.md)
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
