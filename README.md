@@ -1,4 +1,4 @@
-# DevBucket
+# [DevBucket](sabitaneupane.github.io/devbucket)
 
 DevBucket is an all-in-one resource for everything programming-related, including software architecture, system design, coding, data structures and algorithms, interview preparation, and learning resources.
 
@@ -15,7 +15,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 1. [Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
+## [1. Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
 
 **Find resources for popular programming languages, libraries, and frameworks, including:**
 
@@ -29,7 +29,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 2. [Software Design and Architecture](./content/software-design-and-architecture.md)
+## [2. Software Design and Architecture](./content/software-design-and-architecture.md)
 
 **Discover resources on software design and architecture, including:**
 
@@ -54,7 +54,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
 ---
 
-## 3. [System Design and Architecture](./content/system-design-and-architecture.md)
+## [3. System Design and Architecture](./content/system-design-and-architecture.md)
 
 **Get resources for system design and architecture.**
 
@@ -63,7 +63,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 4. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
+## [4. Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
 
 **Explore resources on web application design, principles, and architecture, including:**
 
@@ -72,7 +72,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [JWT Token](./content/web-application-design-principles-and-architecture.md/../web-application-design-principles-and-architecture/2.web-application-security/1.json-web-tokens.md)
 ---
 
-## 5. [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
+## [5. Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
 
 **Find resources for data structures and algorithms, including:**
 
@@ -83,7 +83,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 6. [Technical Career Path and Guide](./content/technical-career-path-and-guide)
+## [6. Technical Career Path and Guide](./content/technical-career-path-and-guide)
 
 **Explore technical career path and guides, including:**
 
