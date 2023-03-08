@@ -75,20 +75,7 @@
 
 - [x] Clean Code
 - [x] Programming Paradigms
-
-- [ ] Object Oriented Programming
-  - [ ] Classes and objects
-  - [ ] Encapsulation
-  - [ ] Inheritance
-  - [ ] Polymorphism
-  - [ ] Abstraction
-  - [ ] Interfaces
-  - [ ] Method overloading and overriding
-  - [ ] Access modifiers
-  - [ ] Constructors and destructors
-  - [ ] Exception handling
-  - [ ] Generics and collections
-
+- [x] Object Oriented Programming
 - [x] Software Design Principles
 
 - [ ] Design Patterns
