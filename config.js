@@ -36,7 +36,9 @@ const menuList = [
   '/software-design-and-architecture',
   '/system-design-and-architecture',
   '/web-application-design-principles-and-architecture',
+  '/web-application-security',
   '/data-structure-and-algorithm',
+  '/technical-career-path-and-guide',
 ];
 
 const sidebarConfig = {

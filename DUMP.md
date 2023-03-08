@@ -145,17 +145,6 @@
   - [ ] System Integration
   - [ ] Scalable Architecture and Design
 
-- [ ] Web Application Security and Threat Protection
-
-  - [ ] OWASP Security Best Practices
-  - [ ] Authorization and Authentication Techniques
-  - [ ] Data Privacy and Protection
-  - [ ] HTTPS, SSL Certificates, and Encryption
-  - [ ] Web Application Firewall (WAF) Deployment
-  - [ ] JSON Web Tokens (JWT) for Token-Based Security
-  - [ ] Identifying and Mitigating Security Vulnerabilities
-  - [ ] Web Server Security and Access Control
-
 - [ ] State and Session Management
 
   - [ ] State Management Techniques
@@ -263,6 +252,98 @@
   - [ ] A/B Testing and Toggle Implementation (Feature Flags)
   - [ ] Testing methodologies (unit testing, integration testing, etc.)
 
+
+## Web Application Security
+
+- [ ] Web Application Security Basics:
+  - [ ] Data Privacy and Protection
+  - [ ] OWASP standards
+  - [ ] Web application vulnerabilities and attacks
+    - [ ] Injection attacks (SQL, code, command, etc.)
+    - [ ] Cross-site scripting (XSS), 
+    - [ ] Cross-site request forgery (CSRF)
+    - [ ] Clickjacking and cross-site tracing (XST)
+    - [ ] Session hijacking and fixation
+    - [ ] File inclusion vulnerabilities
+    - [ ] Broken authentication and password management
+    - [ ] Security misconfigurations
+    - [ ] Insecure direct object references
+
+- [ ] Network Security:
+  - [ ] Network security components
+    - [ ] VPNs
+    - [ ] Firewalls
+    - [ ] Network access control (NAC)
+  - [ ] Denial of service (DoS) prevention
+  - [ ] Wireless network security
+  - [ ] Intrusion detection and prevention
+
+- [ ] Authentication and Authorization:
+  - [ ] User authentication mechanisms
+    - [ ] Passwords
+    - [ ] Multi-factor authentication
+    - [ ] Biometrics, etc
+  - [ ] User authorization and access control
+    - [ ] Role-based access control
+    - [ ] Attribute-based access control
+  - [ ] Session management and security
+    - [ ] session hijacking, 
+    - [ ] session fixation
+  - [ ] JSON Web Tokens (JWT) for Token-Based Security
+
+- [ ] Web Application Security Testing:
+  - [ ] Common web application security testing frameworks (e.g., OWASP ZAP, Burp Suite, etc.)
+  - [ ] Manual and automated testing methodologies
+  - [ ] Web application vulnerability scanners
+  - [ ] Penetration testing techniques and tools
+  - [ ] Static code analysis
+  - [ ] Dynamic application security testing (DAST)
+  - [ ] Fuzz testing
+  - [ ] Security code reviews
+  
+- [ ] Secure Communication:
+  - [ ] Secure sockets layer (SSL)
+  - [ ] Transport layer security (TLS)
+  - [ ] SSL/TLS and encryption
+  - [ ] Secure communication protocols
+    - [ ] HTTPS
+    - [ ] Secure File Transfer Protocol (SFTP)
+  - [ ] Certificate management and validation
+
+- [ ] Threat Protection and Security Controls:
+  - [ ] Firewall and intrusion prevention systems (IPS)
+  - [ ] Web application firewalls (WAFs)
+  - [ ] Intrusion detection systems (IDS)
+  - [ ] Security information and event management (SIEM) systems
+  - [ ] Cloud-based security solutions (e.g., Cloudflare, AWS WAF, etc.)
+
+- [ ] Security Compliance and Regulations:
+  - [ ] Industry and government regulations
+    - [ ] Payment Card Industry Data Security Standard (PCI DSS)
+    - [ ] General Data Protection Regulation (GDPR)
+  - [ ] Security compliance frameworks
+    - [ ] ISO 27001
+    - [ ] NIST Cybersecurity Framework
+  - [ ] Compliance assessment and auditing
+
+- [ ] Web Security Best Practices:
+  - [ ] Developer Security Tips
+  - [ ] Security controls and countermeasures (Secure Coding Practices)
+    - [ ] Input validation
+    - [ ] Output encoding
+    - [ ] Parameterized queries
+    - [ ] Logging and monitoring
+    - [ ] HTTPS, SSL certificates, and encryption
+    - [ ] Web application firewall deployment
+    - [ ] Access control
+    - [ ] Two-factor authentication
+    - [ ] Data sanitization
+    - [ ] Authentication
+    - [ ] Session management
+    - [ ] Error and exception handling
+    - [ ] Encryption and decryption
+    - [ ] Logging and auditing
+  - [ ] Security policies and procedures
 
 # System Design and Architecture
 

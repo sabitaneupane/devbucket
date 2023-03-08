@@ -134,3 +134,4 @@ metaDescription: ""
 
 ## Courses
 - https://www.khanacademy.org/computing/computer-programming/sql
+- https://www.linkedin.com/learning/learning-sql-programming/welcome?u=57344404
