@@ -14,10 +14,10 @@ metaDescription: ""
 - NodeJs
 - ReactJs
   - React Hooks
+- SQL
 
 ## Resources
 
 > Some github to follow
 - https://github.com/codingknite/frontend-development
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-

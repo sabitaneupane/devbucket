@@ -1,4 +1,4 @@
-# DevBucket
+# [DevBucket](sabitaneupane.github.io/devbucket)
 
 DevBucket is an all-in-one resource for everything programming-related, including software architecture, system design, coding, data structures and algorithms, interview preparation, and learning resources.
 
@@ -11,10 +11,11 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [3. System Design and Architecture](#3-system-design-and-architecture)
   - [4. Web Application Design, Principles and Architecture](#4-web-application-design-principles-and-architecture)
   - [5. Data Structure and Algorithm](#5-data-structure-and-algorithm)
+  - [6. Technical Career Path and Guide](#6-technical-career-path-and-guide)
 
 ---
 
-## 1. [Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
+## [1. Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
 
 **Find resources for popular programming languages, libraries, and frameworks, including:**
 
@@ -24,10 +25,11 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [NodeJs](./content/programming-languages-libraries-and-frameworks/node-js.md)
 - [ReactJs](./content/programming-languages-libraries-and-frameworks/react-js.md)
   - [React Hooks](./content/programming-languages-libraries-and-frameworks/react-js/reack-hooks.md)
+- [SQL](./content/programming-languages-libraries-and-frameworks/sql.md)
 
 ---
 
-## 2. [Software Design and Architecture](./content/software-design-and-architecture.md)
+## [2. Software Design and Architecture](./content/software-design-and-architecture.md)
 
 **Discover resources on software design and architecture, including:**
 
@@ -52,7 +54,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
 ---
 
-## 3. [System Design and Architecture](./content/system-design-and-architecture.md)
+## [3. System Design and Architecture](./content/system-design-and-architecture.md)
 
 **Get resources for system design and architecture.**
 
@@ -61,16 +63,16 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## 4. [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
+## [4. Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
 
 **Explore resources on web application design, principles, and architecture, including:**
 
 - [Web Application Development](./content/web-application-design-principles-and-architecture/1.web-application-development.md)
 - [Web Application Security and Threat Protection](./content/web-application-design-principles-and-architecture/2.web-application-security.md)
-
+  - [JWT Token](./content/web-application-design-principles-and-architecture.md/../web-application-design-principles-and-architecture/2.web-application-security/1.json-web-tokens.md)
 ---
 
-## 5. [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
+## [5. Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
 
 **Find resources for data structures and algorithms, including:**
 
@@ -78,5 +80,13 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Data Structure](./content/data-structure-and-algorithm/2.data-structure.md)
   - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
   - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
+
+---
+
+## [6. Technical Career Path and Guide](./content/technical-career-path-and-guide)
+
+**Explore technical career path and guides, including:**
+
+- [Chrome Extension Development](./content/technical-career-path-and-guide/1.chrome-extension-development.md)
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
