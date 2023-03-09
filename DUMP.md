@@ -743,6 +743,19 @@ Advanced topics:
 - [ ] Approximation algorithms
 - [ ] NP-hard and NP-complete problems
 
+# Tools
+- JMeter
+- Postman
+- Docker
+- Sonar
+
+# Deployment patterns
+- Canary Release
+- Blue/Green Deployment
+- Feature Toggle
+- A/B Testing
+- Dark Launches
+
 # Interview in FAANG companies
 
 Data Structures:
@@ -801,6 +814,71 @@ Others:
 - [ ] Study the basics of devops and continuous integration and delivery.
 - [ ] Study the basics of cloud computing.
 
+### IMP topics
+
+- Sliding Window
+- Islands (Matrix Traversal)
+- Two Pointers
+- Fast & Slow Pointers
+- Merge Intervals
+- Cyclic Sort
+- In-place Reversal of a LinkedList
+- Tree Breadth-First Search
+- Tree Depth First Search
+- Two Heaps
+- Subsets
+- Modified Binary Search
+- Bitwise XOR
+- Top ‘K’ Elements
+- K-way Merge
+- Topological Sort
+- 0/1 Knapsack
+- Fibonacci Numbers
+- Palindromic Subsequence
+- Longest Common Substring
+
+### Most Asked Question
+
+1. Binary Search
+2. Search in Rotated Sorted Array
+3. Search in Rotated Sorted Array II
+4. Median of Two Sorted Arrays
+5. Find First and Last Position of Element in Sorted Array
+6. Search a 2D Matrix
+7. Search a 2D Matrix II
+8. Search Insert Position
+9. Kth Smallest Element in a Sorted Matrix
+10. Find Peak Element
+11. Split Array Largest Sum
+12. Find Minimum in Rotated Sorted Array
+13. Find Minimum in Rotated Sorted Array II
+14. Wood Cut
+15. Sqrt(x)
+16. Guess Number Higher or Lower
+17. First Bad Version
+18. Count of Smaller Numbers After Self
+19. Count of Range Sum
+20. Is Subsequence
+21. Valid Perfect Square
+22. Arranging Coins
+23. Heaters
+24. Find K Closest Elements
+25. H-Index
+26. H-Index II
+27. First Missing Positive
+28. Find the Duplicate Number
+29. Maximum Gap
+30. Super Pow
+31. Missing Number
+32. Kth Largest Element in an Array
+33. H-Index III
+34. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+35. Find the Kth Smallest Pair Distance
+36. Find the Smallest Divisor Given a Threshold
+37. Find K-th Smallest Pair Distance
+38. Find the Kth Number in Lexicographical Order
+39. Find the Median of Two Sorted Arrays of Size n and m
+40. Find K Pairs with Smallest Sums
 
 # System Design and Architecture
 
@@ -893,4 +971,153 @@ Others:
   - Defining and using generic classes and methods
   - Generic collections (List, Dictionary, Queue, Stack)
   - Iterating over collections
+
+
+What is OOPS?
+Write basic concepts of OOPS?
+What is a class?
+What is an objects ?
+What is Encapsulation?
+What is Polymorphism?
+What is Inheritance?
+What are manipulators?
+What is an Inline function?
+What is a friend function?
+
+
+## Few Important Github Repos to Follow
+
+- how-web-works https://lnkd.in/dVAt8sCa
+- developer-roadmap https://lnkd.in/dJAXGZtu
+- web-dev-for-beginners https://lnkd.in/dxkwW9He
+- javascript-30 https://lnkd.in/dANNMp9Z
+- developer-handbook https://lnkd.in/dyrv6Wv3
+- spellbook-of-modern-webdev https://lnkd.in/d2wZpsjp
+- web-fundamentals https://lnkd.in/dt9vGeJ8
+- airbnb https://github.com/airbnb
+- clean-code-javascript https://lnkd.in/dnKB3Xtd
+- system-design-primer https://lnkd.in/duiDssrn
+- simpl https://lnkd.in/ddi_cPGD
+- realworld https://lnkd.in/dnR-CiqM
+- build-your-own-x https://lnkd.in/dR_MUaE4
+- coding-interview-university https://lnkd.in/dvKbdnHK
+- front-end-interview-handbook https://lnkd.in/drBz8j2Y
+- tech-interview-handbook https://lnkd.in/dCQNrkyr
+- design-resources-for-developers https://lnkd.in/dKcfwAuS
+- free-programming-books https://lnkd.in/dSTEGJV5
+- front-end-collection https://lnkd.in/drsB99Ev
+
+## API terminology
+
+- API
+- API Call
+- API Economy
+- API Integration
+- API Gateway
+- API Lifecycle
+- API Request
+- API Keys
+- API Layer
+- API Portal
+- API Security
+- APIgee
+- APISec
+- Application
+- Framework
+- Burp Suite
+- CRUD
+- Cache
+- DDOs
+- Resource
+- Request
+- Response
+- Response Code
+- Payload
+- Pagination
+- Method
+- Query Parameters
+- Authentication
+- Rate Limiting
+- API Documentation
+- Logic Flas
+- JSON
+- Microservices
+- Parameters
+- Environment
+- REST
+- SQL Injection
+- Webhook
+
+## System design
+### Things you must know in System Design
+- System design basics: https://bit.ly/3SuUR0Y
+- Horizontal and vertical scaling: https://bit.ly/3slq5xh
+-  Load balancing and Message queues: https://bit.ly/3sp0FP4
+- High-level design and low-level design, Consistent Hashing, Monolithic and Microservices architecture: https://bit.ly/3DnEfEm
+-  Caching, Indexing, Proxies: https://bit.ly/3SvyVDc
+-  Networking, How Browsers work, Content Network Delivery ( CDN): https://bit.ly/3TOHQRb
+-  Database Sharding, CAP Theorem, Database schema Design: https://bit.ly/3CZtfLN
+-  Concurrency, API, Components + OOP + Abstraction : https://bit.ly/3sqQrhj
+-  Estimation and Planning, Performance: https://bit.ly/3z9dSPN
+-  Map Reduce, Patterns, and Microservices: https://bit.ly/3zcsfmv
+-  SQL vs NoSQL and Cloud: https://bit.ly/3z8Aa49
+-  Most Popular System Design Questions: https://bit.ly/3Dp40Ux
+
+### System Design Case Studies
+-  Design Netflix: 
+   -  https://bit.ly/3GrAUG1
+   -  https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
+-  Design Reddit: https://bit.ly/3OgGJrL
+-  Design Messenger App : https://bit.ly/3DoAAXi
+-  Design Instagram: https://bit.ly/3BFeHlh
+-  Design Dropbox: https://bit.ly/3SnhncU
+-  Design Youtube: https://bit.ly/3dFyvvy
+-  Design Tinder: https://bit.ly/3Mcyj3X
+-  Design Yelp: https://bit.ly/3E7IgO5
+-  Design Whatsapp: https://bit.ly/3M2GOhP
+-  Design URL shortener : https://bit.ly/3xP078x
+-  Design Amazon Prime Video: https://bit.ly/3hVpWP4
+-  Design Twitter: https://bit.ly/3qIG9Ih
+-  Design Uber: https://bit.ly/3fyvnlT
+-  Design TikTok : https://bit.ly/3UUlKxP
+-  Design Facebook's Newsfeed: https://bit.ly/3RldaW7
+-  Design Web Crawler: https://bit.ly/3DPZTBB
+-  Design API Rate Limiter: https://bit.ly/3BIVuh7
+
+### All solved case studies: 
+- Quick RoundUp : Solved System Design Case Studies: https://bit.ly/3dCG1rc
+-  System Design Important terms: https://bit.ly/3Om9d3H
+-  Most Popular System Design Questions: https://bit.ly/3E9oH7K
+-  Complete System Design Basics Series: https://bit.ly/3rG1cfr
+
+
+## SYSTEM DESIGN
+
+- Gaurav Sen - (https://lnkd.in/dQzUk9Ek)
+- SudoCode - (https://lnkd.in/dKPi59vK)
+- WhatsApp System Design - (https://lnkd.in/gGxPqGw6)
+- Instagram Design - (https://lnkd.in/gnBWQqs6)
+- TikTok Architecture Design - (https://lnkd.in/g8wn2AbE)
+- Tinder System Design - (https://lnkd.in/gbf5WKNW)
+- System Design of Amazon, Flipkart like E-commerce - (https://lnkd.in/gyMHRC5S)
+- Mock Low Level Design Interview - (https://lnkd.in/gv63EQMr)
+- High Level Design vs Low Level Design - (https://lnkd.in/gDZNjGCK)
+- low Level Design of a Fitness App - (https://lnkd.in/gME6rpQz)
+- Mock Low Level Design Interview - (https://lnkd.in/gAXKJNrP)
+
+## LOW LEVEL DESIGN
+
+- Somyajit bhattacharya - (https://lnkd.in/dT3H8uji)
+- Sandeep Kaul - (https://www.codekarle.com/)
+- Crack the System DesigN Interview - (https://lnkd.in/d5GbEdWy)
+- System Design Interview - (https://lnkd.in/dqptpeYv)
+- System Design - (https://lnkd.in/d4bKKp3h)
+- Services Engineering - (https://lnkd.in/dSs9gJ_9)
+- Engineering Blogs - (https://lnkd.in/dUb4X_73)
+  
+
+## NodeJS
+
+- 
+
 
