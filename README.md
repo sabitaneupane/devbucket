@@ -205,6 +205,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ### Github Repos
 > **A-E**
+
   | Name                            | Link                                                            |
   | ------------------------------- | --------------------------------------------------------------- |
   | airbnb                          | https://github.com/airbnb                                       |
@@ -216,6 +217,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | developer-roadmap               | https://github.com/kamranahmedse/developer-roadmap              |
 
 > **F-J**
+
   | Name                         | Link                                                      |
   | ---------------------------- | --------------------------------------------------------- |
   | free-programming-books       | https://github.com/EbookFoundation/free-programming-books |
@@ -225,11 +227,13 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | javascript-30                | https://github.com/wesbos/JavaScript30                    |
 
 > **K-O**
+
   | Name      | Link                               |
   | --------- | ---------------------------------- |
   | Oh My Zsh | https://github.com/ohmyzsh/ohmyzsh |
 
 > **P-T**
+
   | Name                       | Link                                                   |
   | -------------------------- | ------------------------------------------------------ |
   | realworld                  | https://github.com/gothinkster/realworld               |
@@ -239,6 +243,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | tech-interview-handbook    | https://github.com/yangshun/tech-interview-handbook    |
 
 > **X-Z**
+
   | Name                  | Link                                               |
   | --------------------- | -------------------------------------------------- |
   | web-dev-for-beginners | https://github.com/microsoft/Web-Dev-For-Beginners |
