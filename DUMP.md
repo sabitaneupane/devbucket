@@ -77,22 +77,33 @@
 - [x] Programming Paradigms
 - [x] Object Oriented Programming
 - [x] Software Design Principles
-
 - [ ] Design Patterns
   - [ ] Creational patterns
   - [ ] Structural patterns
   - [ ] Behavioral patterns
   - [ ] Architectural patterns
+
 - [ ] Architecture Principles
 
 - [ ] Architecture Styles
+  - [ ] Client-Server
+  - [ ] Peer-to-Peer
+  - [ ] Event-Driven
+  - [ ] Layered
+  - [ ] Microkernel
+  - [ ] Message Bus
+  - [ ] Blackboard
+  - [ ] Space-Based
+  - [ ] Microservices
+  - [ ] Service-Oriented
+  - [ ] Data-Centric
+  - [ ] Component-Based
+  - [ ] Domain-Driven
 
 - [ ] Architecture Patterns
 
   - [ ] Monolithic Architecture
-  - [ ] Microservices Architecture
   - [ ] Layered Architecture
-  - [ ] Service-Oriented Architecture (SOA)
   - [ ] Client-Server Architecture
   - [ ] Model-View-Controller (MVC) Architecture
   - [ ] Representational State Transfer (REST) Architecture
@@ -103,19 +114,21 @@
   - [ ] Space-Based Architecture
   - [ ] Blackboard Architecture
   - [ ] Microkernel Architecture
+  - [ ] Microservices Architecture
+  - [ ] Service-Oriented Architecture (SOA)
 
 - [ ] Enterprise Patterns and Architecture
 
   - [ ] Three-Tier Architecture
   - [ ] N-Tier Architecture
+  - [ ] Component-Based Architecture
   - [ ] Domain-Driven Design (DDD)
   - [ ] Service Oriented Architecture (SOA)
   - [ ] Event-Driven Architecture (EDA)
   - [ ] Command and Query Responsibility Segregation (CQRS)
   - [ ] Event Sourcing Architecture
-  - [ ] Shared-Nothing Architecture
   - [ ] Publish-Subscribe Pattern
-  - [ ] Component-Based Architecture
+  - [ ] Shared-Nothing Architecture
   - [ ] Cloud Architecture
 
 
@@ -475,11 +488,11 @@
 
 - [ ] Data Structure
   - [ ] Built-in data structure
-    - [ ] Strings
+    - [x] Strings
     - [ ] Arrays
-    - [ ] Lists
     - [ ] Sets
-    - [ ] Maps/Dictionaries
+    - [ ] Maps
+    - [ ] Dictionaries
     - [ ] Queues
     - [ ] Stacks
     - [ ] Tuples
@@ -511,43 +524,8 @@
 
 ### Sub-topics
 
-Arrays:
-
-- [ ] Overview of array data structure and its operations
-- [ ] Dynamic arrays and resizing arrays
-- [ ] Topics related to arrays:
-  - [ ] Array rotation
-  - [ ] Rearranging an array
-  - [ ] Range queries in the array
-  - [ ] Multidimensional array
-  - [ ] Kadane’s algorithm
-  - [ ] Dutch national flag algorithm
-
-Strings:
-
-- [ ] String operations, such as concatenation and substring
-- [ ] String matching algorithms, like KMP and Rabin-Karp
-- [ ] Topics related to strings:
-  - [ ] Subsequence and substring
-  - [ ] Reverse and rotation in a string
-  - [ ] Binary String
-  - [ ] Palindrome
-  - [ ] Lexicographic pattern
-  - [ ] Pattern searching
-
 Linked Lists:
 
-- [ ] Linked List Overview
-- [ ] Linked List Operations
-  - [ ] Traversal
-  - [ ] Insertion
-  - [ ] Deletion
-  - [ ] Search
-  - [ ] Sort
-- [ ] Types of Linked List
-  - [ ] Singly linked list and its operations
-  - [ ] Circular linked list and its operations
-  - [ ] Doubly linked list and its operations
 
 Searching algorithms:
 
@@ -743,76 +721,6 @@ Advanced topics:
 - [ ] Approximation algorithms
 - [ ] NP-hard and NP-complete problems
 
-# Tools
-- JMeter
-- Postman
-- Docker
-- Sonar
-
-# Deployment patterns
-- Canary Release
-- Blue/Green Deployment
-- Feature Toggle
-- A/B Testing
-- Dark Launches
-
-# Interview in FAANG companies
-
-Data Structures:
-
-- [ ] Start with the basics of data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
-- [ ] Practice problems from LeetCode, HackerRank, and GeeksforGeeks to reinforce your understanding.
-- [ ] Study advanced data structures like Tries, AVL Trees, Segment Trees, and Hash Tables.
-- [ ] Study the time and space complexity of different data structures and algorithms.
-
-Algorithms:
-
-- [ ] Study sorting algorithms such as bubble sort, insertion sort, quick sort, merge sort, and heap sort.
-- [ ] Study searching algorithms such as binary search and linear search.
-- [ ] Study dynamic programming algorithms for problems like Longest Common Subsequence, Longest Increasing Subsequence, and knapsack.
-- [ ] Study graph algorithms like DFS, BFS, Dijkstra's Algorithm, and Prim's Algorithm.
-
-Operating Systems:
-
-- [ ] Study the basics of operating systems, process management, and memory management.
-- [ ] Study file systems and disk scheduling algorithms.
-- [ ] Study concurrency and synchronization.
-
-Database Systems:
-
-- [ ] Study the basics of relational database management systems and SQL.
-- [ ] Study indexing, transaction management, and database optimization techniques.
-- [ ] Study NoSQL databases and their use cases.
-
-Programming Languages:
-
-- [ ] Choose the programming languages you are comfortable with, or the ones required by the company you are interviewing for.
-- [ ] Study the language syntax, standard libraries, and popular frameworks.
-- [ ] Practice solving problems in the language to improve your coding skills.
-
-Networking:
-
-- [ ] Study the basics of computer networking, such as the OSI model, IP addresses, and DNS.
-- [ ] Study protocols such as TCP, UDP, and HTTP.
-- [ ] Study the basics of security in computer networks, such as encryption and firewalls.
-
-Systems Design:
-
-- [ ] Study system design and architecture
-- [ ] Study scalability, availability, and reliability.
-- [ ] Study microservices and distributed systems.
-- [ ] Study load balancing and caching.
-
-Security:
-
-- [ ] Study the basics of computer security,
-- [ ] Study encryption, authentication, and access control.
-
-Others:
-
-- [ ] Study software engineering principles such as software design patterns, SOLID principles, and Agile methodologies.
-- [ ] Study the basics of devops and continuous integration and delivery.
-- [ ] Study the basics of cloud computing.
 
 ### IMP topics
 
@@ -879,6 +787,20 @@ Others:
 38. Find the Kth Number in Lexicographical Order
 39. Find the Median of Two Sorted Arrays of Size n and m
 40. Find K Pairs with Smallest Sums
+
+
+# Tools
+- JMeter
+- Postman
+- Docker
+- Sonar
+
+# Deployment Patterns
+- Canary Release
+- Blue/Green Deployment
+- Feature Toggle
+- A/B Testing
+- Dark Launches
 
 # System Design and Architecture
 
@@ -984,29 +906,6 @@ What are manipulators?
 What is an Inline function?
 What is a friend function?
 
-
-## Few Important Github Repos to Follow
-
-- how-web-works https://lnkd.in/dVAt8sCa
-- developer-roadmap https://lnkd.in/dJAXGZtu
-- web-dev-for-beginners https://lnkd.in/dxkwW9He
-- javascript-30 https://lnkd.in/dANNMp9Z
-- developer-handbook https://lnkd.in/dyrv6Wv3
-- spellbook-of-modern-webdev https://lnkd.in/d2wZpsjp
-- web-fundamentals https://lnkd.in/dt9vGeJ8
-- airbnb https://github.com/airbnb
-- clean-code-javascript https://lnkd.in/dnKB3Xtd
-- system-design-primer https://lnkd.in/duiDssrn
-- simpl https://lnkd.in/ddi_cPGD
-- realworld https://lnkd.in/dnR-CiqM
-- build-your-own-x https://lnkd.in/dR_MUaE4
-- coding-interview-university https://lnkd.in/dvKbdnHK
-- front-end-interview-handbook https://lnkd.in/drBz8j2Y
-- tech-interview-handbook https://lnkd.in/dCQNrkyr
-- design-resources-for-developers https://lnkd.in/dKcfwAuS
-- free-programming-books https://lnkd.in/dSTEGJV5
-- front-end-collection https://lnkd.in/drsB99Ev
-
 ## API terminology
 
 - API
@@ -1048,20 +947,41 @@ What is a friend function?
 - SQL Injection
 - Webhook
 
-## System design
-### Things you must know in System Design
+# Important Links to Follow
+
+## Low Level Design
+
+- https://lnkd.in/dT3H8uji
+- https://www.codekarle.com/
+- https://lnkd.in/d5GbEdWy
+- https://lnkd.in/dqptpeYv
+- https://lnkd.in/d4bKKp3h
+- https://lnkd.in/dSs9gJ_9
+- https://lnkd.in/dUb4X_73
+- https://lnkd.in/gME6rpQz
+- https://lnkd.in/gAXKJNrP
+- https://lnkd.in/gv63EQMr
+
+## System Design
+### System Design
+- Solved System Design Case Studies: https://bit.ly/3dCG1rc
+- System Design Important terms: https://bit.ly/3Om9d3H
+- Most Popular System Design Questions: https://bit.ly/3E9oH7K
+- Complete System Design Basics Series: https://bit.ly/3rG1cfr
 - System design basics: https://bit.ly/3SuUR0Y
 - Horizontal and vertical scaling: https://bit.ly/3slq5xh
--  Load balancing and Message queues: https://bit.ly/3sp0FP4
+- Load balancing and Message queues: https://bit.ly/3sp0FP4
 - High-level design and low-level design, Consistent Hashing, Monolithic and Microservices architecture: https://bit.ly/3DnEfEm
--  Caching, Indexing, Proxies: https://bit.ly/3SvyVDc
--  Networking, How Browsers work, Content Network Delivery ( CDN): https://bit.ly/3TOHQRb
--  Database Sharding, CAP Theorem, Database schema Design: https://bit.ly/3CZtfLN
--  Concurrency, API, Components + OOP + Abstraction : https://bit.ly/3sqQrhj
--  Estimation and Planning, Performance: https://bit.ly/3z9dSPN
--  Map Reduce, Patterns, and Microservices: https://bit.ly/3zcsfmv
--  SQL vs NoSQL and Cloud: https://bit.ly/3z8Aa49
--  Most Popular System Design Questions: https://bit.ly/3Dp40Ux
+- Caching, Indexing, Proxies: https://bit.ly/3SvyVDc
+- Networking, How Browsers work, Content Network Delivery ( CDN): https://bit.ly/3TOHQRb
+- Database Sharding, CAP Theorem, Database schema Design: https://bit.ly/3CZtfLN
+- Concurrency, API, Components + OOP + Abstraction : https://bit.ly/3sqQrhj
+- Estimation and Planning, Performance: https://bit.ly/3z9dSPN
+- Map Reduce, Patterns, and Microservices: https://bit.ly/3zcsfmv
+- SQL vs NoSQL and Cloud: https://bit.ly/3z8Aa49
+- Most Popular System Design Questions: https://bit.ly/3Dp40Ux
+- System Design Playlist: https://lnkd.in/dQzUk9Ek
+- System Design Primer Course: https://lnkd.in/dKPi59vK
 
 ### System Design Case Studies
 -  Design Netflix: 
@@ -1069,55 +989,27 @@ What is a friend function?
    -  https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
 -  Design Reddit: https://bit.ly/3OgGJrL
 -  Design Messenger App : https://bit.ly/3DoAAXi
--  Design Instagram: https://bit.ly/3BFeHlh
+-  Design Instagram: 
+   -  https://bit.ly/3BFeHlh
+   -  https://lnkd.in/gnBWQqs6
 -  Design Dropbox: https://bit.ly/3SnhncU
 -  Design Youtube: https://bit.ly/3dFyvvy
--  Design Tinder: https://bit.ly/3Mcyj3X
+-  Design Tinder: 
+   -  https://bit.ly/3Mcyj3X
+   -  https://lnkd.in/gbf5WKNW
 -  Design Yelp: https://bit.ly/3E7IgO5
--  Design Whatsapp: https://bit.ly/3M2GOhP
+-  Design Whatsapp: 
+   -  https://bit.ly/3M2GOhP
+   -  https://lnkd.in/gGxPqGw6
 -  Design URL shortener : https://bit.ly/3xP078x
 -  Design Amazon Prime Video: https://bit.ly/3hVpWP4
 -  Design Twitter: https://bit.ly/3qIG9Ih
 -  Design Uber: https://bit.ly/3fyvnlT
--  Design TikTok : https://bit.ly/3UUlKxP
+-  Design TikTok : 
+   -  https://bit.ly/3UUlKxP
+   -  https://lnkd.in/g8wn2AbE
 -  Design Facebook's Newsfeed: https://bit.ly/3RldaW7
 -  Design Web Crawler: https://bit.ly/3DPZTBB
 -  Design API Rate Limiter: https://bit.ly/3BIVuh7
-
-### All solved case studies: 
-- Quick RoundUp : Solved System Design Case Studies: https://bit.ly/3dCG1rc
--  System Design Important terms: https://bit.ly/3Om9d3H
--  Most Popular System Design Questions: https://bit.ly/3E9oH7K
--  Complete System Design Basics Series: https://bit.ly/3rG1cfr
-
-
-## SYSTEM DESIGN
-
-- Gaurav Sen - (https://lnkd.in/dQzUk9Ek)
-- SudoCode - (https://lnkd.in/dKPi59vK)
-- WhatsApp System Design - (https://lnkd.in/gGxPqGw6)
-- Instagram Design - (https://lnkd.in/gnBWQqs6)
-- TikTok Architecture Design - (https://lnkd.in/g8wn2AbE)
-- Tinder System Design - (https://lnkd.in/gbf5WKNW)
-- System Design of Amazon, Flipkart like E-commerce - (https://lnkd.in/gyMHRC5S)
-- Mock Low Level Design Interview - (https://lnkd.in/gv63EQMr)
-- High Level Design vs Low Level Design - (https://lnkd.in/gDZNjGCK)
-- low Level Design of a Fitness App - (https://lnkd.in/gME6rpQz)
-- Mock Low Level Design Interview - (https://lnkd.in/gAXKJNrP)
-
-## LOW LEVEL DESIGN
-
-- Somyajit bhattacharya - (https://lnkd.in/dT3H8uji)
-- Sandeep Kaul - (https://www.codekarle.com/)
-- Crack the System DesigN Interview - (https://lnkd.in/d5GbEdWy)
-- System Design Interview - (https://lnkd.in/dqptpeYv)
-- System Design - (https://lnkd.in/d4bKKp3h)
-- Services Engineering - (https://lnkd.in/dSs9gJ_9)
-- Engineering Blogs - (https://lnkd.in/dUb4X_73)
-  
-
-## NodeJS
-
-- 
-
-
+-  Design Ecommerce: 
+   -  https://lnkd.in/gyMHRC5S

@@ -13,7 +13,10 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [5. Web Application Security](#5-web-application-security)
   - [6. Data Structure and Algorithm](#6-data-structure-and-algorithm)
   - [7. Technical Career Path and Guide](#7-technical-career-path-and-guide)
-
+  - [8. Interview in FAANG companies](#8-interview-in-faang-companies)
+  - [9. Important Links to Follow](#9-important-links-to-follow)
+    - [Websites](#websites)
+    - [Github Repos](#github-repos)
 ---
 
 ## [1. Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
@@ -99,9 +102,40 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [Complexities and Notations](./content/data-structure-and-algorithm/1.complexities-and-notations.md)
 - [Data Structure](./content/data-structure-and-algorithm/2.data-structure.md)
-  - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
-  - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
-
+  - Built-in data structure
+    - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
+    - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
+    - [Sets]()
+    - [Maps]()
+    - [Dictionaries]()
+    - [Queues]()
+    - [Stacks]()
+    - [Tuples]()
+  - Custom data structure
+    - [Linked List]()
+    - [Tree]()
+    - [Graph]()
+    - [Hash Table]()
+    - [Heap]()
+    - [Matrix/Grid]()
+    - [Trie]()
+- [Algorithm]()
+  - [Searching algorithms]()
+  - [Sorting algorithms]()
+  - [Divide and conquer algorithms]()
+  - [Greedy methodology]()
+  - [Recursion]()
+  - [Backtracking algorithm]()
+  - [Dynamic Programming]()
+  - [Pattern Searching]()
+  - [Mathematical algorithms]()
+  - [Geometric algorithms]()
+  - [Bitwise algorithms]()
+  - [Randomized algorithms]()
+  - [Branch and Bound algorithm]()
+  - [Math and Bit Manipulation]()
+  - [Approximation algorithms]()
+  - [Sliding Window algorithms]()
 ---
 
 ## [7. Technical Career Path and Guide](./content/technical-career-path-and-guide)
@@ -110,5 +144,103 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [Quality Assurance Engineer](./content/technical-career-path-and-guide/1.quality-assurance-engineer.md)
 - [Chrome Extension Development](./content/technical-career-path-and-guide/2.chrome-extension-development.md)
+
+## 8. Interview in FAANG companies
+
+- **Data Structures:**
+  - Start with the basics of data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+  - Practice problems from LeetCode, HackerRank, and GeeksforGeeks to reinforce your understanding.
+  - Study advanced data structures like Tries, AVL Trees, Segment Trees, and Hash Tables.
+  - Study the time and space complexity of different data structures and algorithms.
+
+- **Algorithms:**
+  - Study sorting algorithms such as bubble sort, insertion sort, quick sort, merge sort, and heap sort.
+  - Study searching algorithms such as binary search and linear search.
+  - Study dynamic programming algorithms for problems like Longest Common Subsequence, Longest Increasing Subsequence, and knapsack.
+  - Study graph algorithms like DFS, BFS, Dijkstra's Algorithm, and Prim's Algorithm.
+
+- **Operating Systems:**
+  - Study the basics of operating systems, process management, and memory management.
+  - Study file systems and disk scheduling algorithms.
+  - Study concurrency and synchronization.
+
+- **Database Systems:**
+  - Study the basics of relational database management systems and SQL.
+  - Study indexing, transaction management, and database optimization techniques.
+  - Study NoSQL databases and their use cases.
+
+- **Programming Languages:**
+  - Choose the programming languages you are comfortable with, or the ones required by the company you are interviewing for.
+  - Study the language syntax, standard libraries, and popular frameworks.
+  - Practice solving problems in the language to improve your coding skills.
+
+- **Networking:**
+  - Study the basics of computer networking, such as the OSI model, IP addresses, and DNS.
+  - Study protocols such as TCP, UDP, and HTTP.
+  - Study the basics of security in computer networks, such as encryption and firewalls.
+
+- **Systems Design:**
+  - Study system design and architecture
+  - Study scalability, availability, and reliability.
+  - Study microservices and distributed systems.
+  - Study load balancing and caching.
+
+- **Security:**
+  - Study the basics of computer security,
+  - Study encryption, authentication, and access control.
+
+- **Others:**
+  - Study software engineering principles such as software design patterns, SOLID principles, and Agile methodologies.
+  - Study the basics of devops and continuous integration and delivery.
+  - Study the basics of cloud computing.
+
+## 9. Important Links to Follow
+
+### Websites
+| Name      | Link                       |
+| --------- | -------------------------- |
+| scrimba   | https://scrimba.com/       |
+| w3schools | https://www.w3schools.com/ |
+
+### Github Repos
+> A-E
+| Name                            | Link                      |
+| ------------------------------- | ------------------------- |
+| airbnb                          | https://github.com/airbnb |
+| build-your-own-x                | https://lnkd.in/dR_MUaE4  |
+| clean-code-javascript           | https://lnkd.in/dnKB3Xtd  |
+| coding-interview-university     | https://lnkd.in/dvKbdnHK  |
+| design-resources-for-developers | https://lnkd.in/dKcfwAuS  |
+| developer-handbook              | https://lnkd.in/dyrv6Wv3  |
+| developer-roadmap               | https://lnkd.in/dJAXGZtu  |
+
+> F-J
+| Name                         | Link                     |
+| ---------------------------- | ------------------------ |
+| free-programming-books       | https://lnkd.in/dSTEGJV5 |
+| front-end-collection         | https://lnkd.in/drsB99Ev |
+| front-end-interview-handbook | https://lnkd.in/drBz8j2Y |
+| how-web-works                | https://lnkd.in/dVAt8sCa |
+| javascript-30                | https://lnkd.in/dANNMp9Z |
+
+> K-O
+| Name | Link |
+| ---- | ---- |
+|      |      |
+
+> P-T
+| Name                       | Link                     |
+| -------------------------- | ------------------------ |
+| realworld                  | https://lnkd.in/dnR-CiqM |
+| simpl                      | https://lnkd.in/ddi_cPGD |
+| spellbook-of-modern-webdev | https://lnkd.in/d2wZpsjp |
+| system-design-primer       | https://lnkd.in/duiDssrn |
+| tech-interview-handbook    | https://lnkd.in/dCQNrkyr |
+
+> X-Z
+| Name                  | Link                     |
+| --------------------- | ------------------------ |
+| web-dev-for-beginners | https://lnkd.in/dxkwW9He |
+| web-fundamentals      | https://lnkd.in/dt9vGeJ8 |
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
