@@ -524,8 +524,43 @@
 
 ### Sub-topics
 
+Arrays:
+
+- [ ] Overview of array data structure and its operations
+- [ ] Dynamic arrays and resizing arrays
+- [ ] Topics related to arrays:
+  - [ ] Array rotation
+  - [ ] Rearranging an array
+  - [ ] Range queries in the array
+  - [ ] Multidimensional array
+  - [ ] Kadane’s algorithm
+  - [ ] Dutch national flag algorithm
+
+Strings:
+
+- [ ] String operations, such as concatenation and substring
+- [ ] String matching algorithms, like KMP and Rabin-Karp
+- [ ] Topics related to strings:
+  - [ ] Subsequence and substring
+  - [ ] Reverse and rotation in a string
+  - [ ] Binary String
+  - [ ] Palindrome
+  - [ ] Lexicographic pattern
+  - [ ] Pattern searching
+
 Linked Lists:
 
+- [ ] Linked List Overview
+- [ ] Linked List Operations
+  - [ ] Traversal
+  - [ ] Insertion
+  - [ ] Deletion
+  - [ ] Search
+  - [ ] Sort
+- [ ] Types of Linked List
+  - [ ] Singly linked list and its operations
+  - [ ] Circular linked list and its operations
+  - [ ] Doubly linked list and its operations
 
 Searching algorithms:
 
@@ -802,19 +837,6 @@ Advanced topics:
 - A/B Testing
 - Dark Launches
 
-# System Design and Architecture
-
-- https://github.com/puncsky/system-design-and-architecture
-- https://github.com/madd86/awesome-system-design
-- https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
-- https://github.com/karanpratapsingh/system-design
-- https://github.com/donnemartin/system-design-primer
-
-# FAANG Interview
-
-- https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
-
-
 ## OOPs
 - Introduction to Object-Oriented Programming
   - History of OOP
@@ -894,18 +916,6 @@ Advanced topics:
   - Generic collections (List, Dictionary, Queue, Stack)
   - Iterating over collections
 
-
-What is OOPS?
-Write basic concepts of OOPS?
-What is a class?
-What is an objects ?
-What is Encapsulation?
-What is Polymorphism?
-What is Inheritance?
-What are manipulators?
-What is an Inline function?
-What is a friend function?
-
 ## API terminology
 
 - API
@@ -963,6 +973,15 @@ What is a friend function?
 - https://lnkd.in/gv63EQMr
 
 ## System Design
+
+### System Design and Architecture
+
+- https://github.com/puncsky/system-design-and-architecture
+- https://github.com/madd86/awesome-system-design
+- https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+- https://github.com/karanpratapsingh/system-design
+- https://github.com/donnemartin/system-design-primer
+
 ### System Design
 - Solved System Design Case Studies: https://bit.ly/3dCG1rc
 - System Design Important terms: https://bit.ly/3Om9d3H

@@ -15,8 +15,6 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [7. Technical Career Path and Guide](#7-technical-career-path-and-guide)
   - [8. Interview in FAANG companies](#8-interview-in-faang-companies)
   - [9. Important Links to Follow](#9-important-links-to-follow)
-    - [Websites](#websites)
-    - [Github Repos](#github-repos)
 ---
 
 ## [1. Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
@@ -147,6 +145,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ## 8. Interview in FAANG companies
 
+**Explore interview preparation path and guides, including:**
+
 - **Data Structures:**
   - Start with the basics of data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
   - Practice problems from LeetCode, HackerRank, and GeeksforGeeks to reinforce your understanding.
@@ -196,14 +196,16 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ## 9. Important Links to Follow
 
-### Websites
+**Discover and explore all the important resources, including:**
+
+- **Websites**
   | Name       | Link                       |
   | ---------- | -------------------------- |
   | scrimba    | https://scrimba.com/       |
   | w3schools  | https://www.w3schools.com/ |
   | roadmap.sh | https://roadmap.sh/        |
 
-### Github Repos
+- **Github Repos**
   | Name                            | Link                                                            |
   | ------------------------------- | --------------------------------------------------------------- |
   | airbnb                          | https://github.com/airbnb                                       |
@@ -217,6 +219,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | front-end-collection            | https://github.com/cheatsheet1999/FrontEndCollection            |
   | front-end-interview-handbook    | https://github.com/yangshun/front-end-interview-handbook        |
   | how-web-works                   | https://github.com/vasanthk/how-web-works                       |
+  | interview-help                  | https://github.com/codebasics/interview-help                    |
   | javascript-30                   | https://github.com/wesbos/JavaScript30                          |
   | Oh My Zsh                       | https://github.com/ohmyzsh/ohmyzsh                              |
   | realworld                       | https://github.com/gothinkster/realworld                        |
