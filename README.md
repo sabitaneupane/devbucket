@@ -197,50 +197,51 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 ## 9. Important Links to Follow
 
 ### Websites
-| Name      | Link                       |
-| --------- | -------------------------- |
-| scrimba   | https://scrimba.com/       |
-| w3schools | https://www.w3schools.com/ |
+  | Name       | Link                       |
+  | ---------- | -------------------------- |
+  | scrimba    | https://scrimba.com/       |
+  | w3schools  | https://www.w3schools.com/ |
+  | roadmap.sh | https://roadmap.sh/        |
 
 ### Github Repos
-> A-E
-| Name                            | Link                      |
-| ------------------------------- | ------------------------- |
-| airbnb                          | https://github.com/airbnb |
-| build-your-own-x                | https://lnkd.in/dR_MUaE4  |
-| clean-code-javascript           | https://lnkd.in/dnKB3Xtd  |
-| coding-interview-university     | https://lnkd.in/dvKbdnHK  |
-| design-resources-for-developers | https://lnkd.in/dKcfwAuS  |
-| developer-handbook              | https://lnkd.in/dyrv6Wv3  |
-| developer-roadmap               | https://lnkd.in/dJAXGZtu  |
+> **A-E**
+  | Name                            | Link                                                            |
+  | ------------------------------- | --------------------------------------------------------------- |
+  | airbnb                          | https://github.com/airbnb                                       |
+  | build-your-own-x                | https://github.com/codecrafters-io/build-your-own-x             |
+  | clean-code-javascript           | https://github.com/ryanmcdermott/clean-code-javascript          |
+  | coding-interview-university     | https://github.com/jwasham/coding-interview-university          |
+  | design-resources-for-developers | https://github.com/bradtraversy/design-resources-for-developers |
+  | developer-handbook              | https://github.com/stakater/developer-handbook                  |
+  | developer-roadmap               | https://github.com/kamranahmedse/developer-roadmap              |
 
-> F-J
-| Name                         | Link                     |
-| ---------------------------- | ------------------------ |
-| free-programming-books       | https://lnkd.in/dSTEGJV5 |
-| front-end-collection         | https://lnkd.in/drsB99Ev |
-| front-end-interview-handbook | https://lnkd.in/drBz8j2Y |
-| how-web-works                | https://lnkd.in/dVAt8sCa |
-| javascript-30                | https://lnkd.in/dANNMp9Z |
+> **F-J**
+  | Name                         | Link                                                      |
+  | ---------------------------- | --------------------------------------------------------- |
+  | free-programming-books       | https://github.com/EbookFoundation/free-programming-books |
+  | front-end-collection         | https://github.com/cheatsheet1999/FrontEndCollection      |
+  | front-end-interview-handbook | https://github.com/yangshun/front-end-interview-handbook  |
+  | how-web-works                | https://github.com/vasanthk/how-web-works                 |
+  | javascript-30                | https://github.com/wesbos/JavaScript30                    |
 
-> K-O
-| Name | Link |
-| ---- | ---- |
-|      |      |
+> **K-O**
+  | Name      | Link                               |
+  | --------- | ---------------------------------- |
+  | Oh My Zsh | https://github.com/ohmyzsh/ohmyzsh |
 
-> P-T
-| Name                       | Link                     |
-| -------------------------- | ------------------------ |
-| realworld                  | https://lnkd.in/dnR-CiqM |
-| simpl                      | https://lnkd.in/ddi_cPGD |
-| spellbook-of-modern-webdev | https://lnkd.in/d2wZpsjp |
-| system-design-primer       | https://lnkd.in/duiDssrn |
-| tech-interview-handbook    | https://lnkd.in/dCQNrkyr |
+> **P-T**
+  | Name                       | Link                                                   |
+  | -------------------------- | ------------------------------------------------------ |
+  | realworld                  | https://github.com/gothinkster/realworld               |
+  | simpl                      | https://github.com/GetSimpl                            |
+  | spellbook-of-modern-webdev | https://github.com/dexteryy/spellbook-of-modern-webdev |
+  | system-design-primer       | https://github.com/donnemartin/system-design-primer    |
+  | tech-interview-handbook    | https://github.com/yangshun/tech-interview-handbook    |
 
-> X-Z
-| Name                  | Link                     |
-| --------------------- | ------------------------ |
-| web-dev-for-beginners | https://lnkd.in/dxkwW9He |
-| web-fundamentals      | https://lnkd.in/dt9vGeJ8 |
+> **X-Z**
+  | Name                  | Link                                               |
+  | --------------------- | -------------------------------------------------- |
+  | web-dev-for-beginners | https://github.com/microsoft/Web-Dev-For-Beginners |
+  | web-fundamentals      | https://github.com/google/WebFundamentals          |
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
