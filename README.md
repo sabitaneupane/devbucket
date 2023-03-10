@@ -204,8 +204,6 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | roadmap.sh | https://roadmap.sh/        |
 
 ### Github Repos
-> **A-E**
-
   | Name                            | Link                                                            |
   | ------------------------------- | --------------------------------------------------------------- |
   | airbnb                          | https://github.com/airbnb                                       |
@@ -215,38 +213,18 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   | design-resources-for-developers | https://github.com/bradtraversy/design-resources-for-developers |
   | developer-handbook              | https://github.com/stakater/developer-handbook                  |
   | developer-roadmap               | https://github.com/kamranahmedse/developer-roadmap              |
-
-> **F-J**
-
-  | Name                         | Link                                                      |
-  | ---------------------------- | --------------------------------------------------------- |
-  | free-programming-books       | https://github.com/EbookFoundation/free-programming-books |
-  | front-end-collection         | https://github.com/cheatsheet1999/FrontEndCollection      |
-  | front-end-interview-handbook | https://github.com/yangshun/front-end-interview-handbook  |
-  | how-web-works                | https://github.com/vasanthk/how-web-works                 |
-  | javascript-30                | https://github.com/wesbos/JavaScript30                    |
-
-> **K-O**
-
-  | Name      | Link                               |
-  | --------- | ---------------------------------- |
-  | Oh My Zsh | https://github.com/ohmyzsh/ohmyzsh |
-
-> **P-T**
-
-  | Name                       | Link                                                   |
-  | -------------------------- | ------------------------------------------------------ |
-  | realworld                  | https://github.com/gothinkster/realworld               |
-  | simpl                      | https://github.com/GetSimpl                            |
-  | spellbook-of-modern-webdev | https://github.com/dexteryy/spellbook-of-modern-webdev |
-  | system-design-primer       | https://github.com/donnemartin/system-design-primer    |
-  | tech-interview-handbook    | https://github.com/yangshun/tech-interview-handbook    |
-
-> **X-Z**
-
-  | Name                  | Link                                               |
-  | --------------------- | -------------------------------------------------- |
-  | web-dev-for-beginners | https://github.com/microsoft/Web-Dev-For-Beginners |
-  | web-fundamentals      | https://github.com/google/WebFundamentals          |
+  | free-programming-books          | https://github.com/EbookFoundation/free-programming-books       |
+  | front-end-collection            | https://github.com/cheatsheet1999/FrontEndCollection            |
+  | front-end-interview-handbook    | https://github.com/yangshun/front-end-interview-handbook        |
+  | how-web-works                   | https://github.com/vasanthk/how-web-works                       |
+  | javascript-30                   | https://github.com/wesbos/JavaScript30                          |
+  | Oh My Zsh                       | https://github.com/ohmyzsh/ohmyzsh                              |
+  | realworld                       | https://github.com/gothinkster/realworld                        |
+  | simpl                           | https://github.com/GetSimpl                                     |
+  | spellbook-of-modern-webdev      | https://github.com/dexteryy/spellbook-of-modern-webdev          |
+  | system-design-primer            | https://github.com/donnemartin/system-design-primer             |
+  | tech-interview-handbook         | https://github.com/yangshun/tech-interview-handbook             |
+  | web-dev-for-beginners           | https://github.com/microsoft/Web-Dev-For-Beginners              |
+  | web-fundamentals                | https://github.com/google/WebFundamentals                       |
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
