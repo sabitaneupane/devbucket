@@ -489,14 +489,14 @@
 - [ ] Data Structure
   - [ ] Built-in data structure
     - [x] Strings
-    - [ ] Arrays
+    - [x] Arrays
     - [ ] Sets
     - [ ] Maps
     - [ ] Dictionaries
-    - [ ] Queues
-    - [ ] Stacks
     - [ ] Tuples
-  - [ ] Custom data structure
+  - [ ] Custom data structure    
+    - [ ] Stacks
+    - [ ] Queues
     - [ ] Linked List
     - [ ] Tree
     - [ ] Graph
