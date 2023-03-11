@@ -490,19 +490,20 @@
   - [ ] Built-in data structure
     - [x] Strings
     - [x] Arrays
-    - [ ] Sets
-    - [ ] Maps
-    - [ ] Dictionaries
-    - [ ] Tuples
+    - [x] Sets
+    - [x] Maps
+    - [x] Dictionaries
+    - [x] Tuples
   - [ ] Custom data structure    
+    - [ ] Linked List
     - [ ] Stacks
     - [ ] Queues
-    - [ ] Linked List
     - [ ] Tree
     - [ ] Graph
     - [ ] Hash Table
     - [ ] Heap
-    - [ ] Matrix/Grid
+    - [ ] Matrix
+    - [ ] Grid
     - [ ] Trie
 - [ ] Algorithm
   - [ ] Searching algorithms
