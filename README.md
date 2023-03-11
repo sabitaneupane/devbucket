@@ -22,14 +22,15 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 **Find resources for popular programming languages, libraries, and frameworks, including:**
 
-- [HTML](./content/programming-languages-libraries-and-frameworks/html.md)
-- [CSS](./content/programming-languages-libraries-and-frameworks/css.md)
-- [JavaScript](./content/programming-languages-libraries-and-frameworks/javascript.md)
-- [GO](./content/programming-languages-libraries-and-frameworks/go.md)
-- [NodeJs](./content/programming-languages-libraries-and-frameworks/node-js.md)
-- [ReactJs](./content/programming-languages-libraries-and-frameworks/react-js.md)
-  - [React Hooks](./content/programming-languages-libraries-and-frameworks/react-js/reack-hooks.md)
-- [SQL](./content/programming-languages-libraries-and-frameworks/sql.md)
+- [HTML](./content/programming-languages-libraries-and-frameworks/1.html.md)
+- [CSS](./content/programming-languages-libraries-and-frameworks/2.css.md)
+- [JavaScript](./content/programming-languages-libraries-and-frameworks/3.javascript.md)
+- [ReactJs](./content/programming-languages-libraries-and-frameworks/4.react-js.md)
+  - [React Hooks](./content/programming-languages-libraries-and-frameworks/4.react-js/reack-hooks.md)
+- [NodeJs](./content/programming-languages-libraries-and-frameworks/5.node-js.md)
+- [GO](./content/programming-languages-libraries-and-frameworks/6.go.md)
+
+- [SQL](./content/programming-languages-libraries-and-frameworks/7.sql.md)
 
 ---
 
