@@ -6,22 +6,24 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [DevBucket](#devbucket)
   - [Table of content](#table-of-content)
-  - [1. Programming Languages, Libraries and Frameworks](#1-programming-languages-libraries-and-frameworks)
-  - [2. Software Design and Architecture](#2-software-design-and-architecture)
-  - [3. System Design and Architecture](#3-system-design-and-architecture)
-  - [4. Web Application Design, Principles and Architecture](#4-web-application-design-principles-and-architecture)
-  - [5. Web Application Security](#5-web-application-security)
-  - [6. Data Structure and Algorithm](#6-data-structure-and-algorithm)
-  - [7. Technical Career Path and Guide](#7-technical-career-path-and-guide)
-  - [8. Interview in FAANG companies](#8-interview-in-faang-companies)
-  - [9. Important Links to Follow](#9-important-links-to-follow)
+  - [Programming Languages, Libraries and Frameworks](#programming-languages-libraries-and-frameworks)
+  - [Software Development Tools](#software-development-tools)
+  - [Software Design and Architecture](#software-design-and-architecture)
+  - [System Design and Architecture](#system-design-and-architecture)
+  - [Web Application Design, Principles and Architecture](#web-application-design-principles-and-architecture)
+  - [Web Application Security](#web-application-security)
+  - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [Technical Career Path and Guide](#technical-career-path-and-guide)
+  - [Interview in FAANG companies](#interview-in-faang-companies)
+  - [Important Links to Follow](#important-links-to-follow)
 ---
 
-## [1. Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
+## [Programming Languages, Libraries and Frameworks](./content/programming-languages-libraries-and-frameworks.md)
 
 **Find resources for popular programming languages, libraries, and frameworks, including:**
 
 - [HTML](./content/programming-languages-libraries-and-frameworks/html.md)
+- [CSS](./content/programming-languages-libraries-and-frameworks/css.md)
 - [JavaScript](./content/programming-languages-libraries-and-frameworks/javascript.md)
 - [GO](./content/programming-languages-libraries-and-frameworks/go.md)
 - [NodeJs](./content/programming-languages-libraries-and-frameworks/node-js.md)
@@ -31,7 +33,15 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## [2. Software Design and Architecture](./content/software-design-and-architecture.md)
+## [Software Development Tools](./content/software-development-tools.md)
+
+**Discover resources on software design and architecture, including:**
+
+- [Postman](./content/software-development-tools/postman.md)
+
+---
+
+## [Software Design and Architecture](./content/software-design-and-architecture.md)
 
 **Discover resources on software design and architecture, including:**
 
@@ -67,7 +77,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
 ---
 
-## [3. System Design and Architecture](./content/system-design-and-architecture.md)
+## [System Design and Architecture](./content/system-design-and-architecture.md)
 
 **Get resources for system design and architecture.**
 
@@ -76,7 +86,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## [4. Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
+## [Web Application Design, Principles and Architecture](./content/web-application-design-principles-and-architecture.md)
 
 **Explore resources on web application design, principles, and architecture, including:**
 
@@ -84,7 +94,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 ---
 
-## [5. Web Application Security](./content/web-application-security.md)
+## [Web Application Security](./content/web-application-security.md)
 
 **Explore resources on web application security, including:**
 
@@ -94,7 +104,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Developer Security Tips](./content/web-application-security/2.web-security-best-practices/1.developer-security-tips.md)
 ---
 
-## [6. Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
+## [Data Structure and Algorithm](./content/data-structure-and-algorithm.md)
 
 **Find resources for data structures and algorithms, including:**
 
@@ -136,14 +146,14 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Sliding Window algorithms]()
 ---
 
-## [7. Technical Career Path and Guide](./content/technical-career-path-and-guide)
+## [Technical Career Path and Guide](./content/technical-career-path-and-guide)
 
 **Explore technical career path and guides, including:**
 
 - [Quality Assurance Engineer](./content/technical-career-path-and-guide/1.quality-assurance-engineer.md)
 - [Chrome Extension Development](./content/technical-career-path-and-guide/2.chrome-extension-development.md)
 
-## 8. Interview in FAANG companies
+## Interview in FAANG companies
 
 **Explore interview preparation path and guides, including:**
 
@@ -194,7 +204,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - Study the basics of devops and continuous integration and delivery.
   - Study the basics of cloud computing.
 
-## 9. Important Links to Follow
+## Important Links to Follow
 
 **Discover and explore all the important resources, including:**
 

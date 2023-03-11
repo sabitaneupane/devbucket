@@ -33,6 +33,7 @@ const headerConfig = {
 
 const menuList = [
   '/programming-languages-libraries-and-frameworks',
+  '/software-development-tools',
   '/software-design-and-architecture',
   '/system-design-and-architecture',
   '/web-application-design-principles-and-architecture',

@@ -6,7 +6,6 @@ metaDescription: ""
 
 ## React Hooks
 
-
 Hooks are a new feature in React 16.8 that enable functional components to access state and other React functionalities. They are functions that allow you to integrate with React's state and lifecycle mechanisms, without the need for a class component. This allows for the reuse of stateful logic across different components, without altering their structure.
 
 React offers several built-in Hooks, such as `useState`, `useEffect`, `useContext`, `useReducer`, and many others, that can be utilized for state management, performing side-effects, sharing data between components, etc. Additionally, you can also create your own Hooks to share stateful logic between multiple components.

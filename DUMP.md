@@ -2,31 +2,34 @@
 
 ## Programming Languages, Libraries and Frameworks
 
-- [ ] HTML
-- [ ] Semantic HTML
+- [ ] HTML and Semantic HTML
 - [ ] CSS
-- [ ] Basic JavaScript
-- [ ] Advance JavaScript
+  - [ ] Flexbox
+    - [ ] Understand the basics of flexbox and its advantages over other layout methods.
+    - [ ] Learn the flex container properties, including display, flex-direction, justify-content, align-items, and align-content.
+    - [ ] Learn the flex item properties, including flex, flex-grow, flex-shrink, flex-basis, order, and align-self.
+    - [ ] Understand the concept of the flexbox "main axis" and "cross axis".
+    - [ ] Learn how to create flexible layouts with flexbox, including single-row and single-column layouts, as well as more complex layouts with nested flex containers.
+    - [ ] Learn how to align items within a flex container using justify-content and align-items.
+    - [ ] Learn how to create flexible spacing between flex items using flex and flex-grow.
+    - [ ] Learn how to control the size and behavior of flex items using flex-basis, flex-shrink, and order.
+    - [ ] Learn how to override the default alignment of a flex item using align-self.
+    - [ ] Practice creating real-world layouts using flexbox, such as navigation bars, card layouts, and responsive grids.
+- [ ] JavaScript
 - [ ] ReactJS
-  - [ ] Why create-react-app does not start offline
-  - [ ] What does ws://localhost:3000/ws mean in react app
   - [ ] Context API
-  - [ ] Why Key is important in looped content
   - [ ] State Management
-  - [ ] Formik and Yup
   - [x] React Hooks and Custom Hooks
-  - [ ] Is <App> !== App() ?
-- [ ] NodeJS/ExpressJS
+- [ ] Formik and Yup
 - [ ] Typescript
+- [ ] NodeJS
+- [ ] ExpressJS
+- [ ] GO
+- [ ] SQL
 - [ ] MongoDB
 - [ ] Next.js
 - [ ] Graphql
 - [ ] ElasticSearch
-- [ ] GO
-  - [ ] Working with BSON-GO
-    - [ ] GO value to BSON -> Marshalling
-    - [ ] BSON to GO value -> Unmarshalling
-- [ ] SQL
 - [ ] NoSQL databases
 - [ ] In-Memory Database: Redis
 - [ ] Firebase
@@ -34,42 +37,6 @@
 - [ ] Twailwind
 - [ ] Testing frameworks such as React testing library, Jest, Enzyme, Mocha, Selenium or Cypress
 - [ ] Data Visualization (D3 JS, Tableau)
-
-## Cloud Services
-
-- [ ] Google Cloud
-- [ ] AWS Services
-  - [ ] Dynamodb
-
-## Tools
-
-- [ ] Docker
-- [ ] Postman
-- [ ] JMeter
-
-## Techinal Skills/Career
-
-- [ ] UI/UX Design
-- [ ] Wordpress Development
-- [ ] Webflow Development
-- [ ] Web Development
-- [ ] Frontend Development
-- [ ] Backend Development
-- [ ] Quality Assurance
-- [ ] Project Manager
-- [ ] Scrum Master
-- [ ] Team Lead
-- [ ] Tech Lead
-- [ ] Digital Marketing
-- [ ] Graphics Design
-- [x] Chrome Extension
-
-## Interview Preparation
-
-- [ ] Web Developer
-- [ ] Frontend Developer
-- [ ] ReactJS Developer
-- [ ] Backend Developer
 
 ## Software Design and Architecture
 
@@ -244,14 +211,28 @@
   - [ ] Serverless Computing and Function-as-a-Service (FaaS)
   - [ ] Implementing Web APIs for Advanced Features (e.g. WebSockets, Web Workers, WebRTC, Canvas, WebGL, or Web 3D UI Frameworks)
 
-- [ ] Software Development Process and Deployment Strategies
+- [ ] Software Development Process
 
   - [ ] Test-Driven Development (TDD) Approach
   - [ ] DevOps and Code-Driven Infrastructure Management (Infrastructure as Code)
   - [ ] Automated Testing and Test Framework Integration
-  - [ ] A/B Testing and Toggle Implementation (Feature Flags)
   - [ ] Testing methodologies (unit testing, integration testing, etc.)
 
+- [ ] Deployment Strategies and Patterns
+
+  - [ ] Deployment Strategies
+    - [ ] Continuous Deployment
+    - [ ] Continuous Delivery
+    - [ ] Rolling Deployment
+    - [ ] Immutable Deployment
+    - [ ] Blue/Green Deployment
+    - [ ] Canary Deployment
+  - [ ] Deployment Patterns
+    - [ ] Canary Release
+    - [ ] Blue/Green Deployment
+    - [ ] Feature Toggle
+    - [ ] A/B Testing
+    - [ ] Dark Launches
 
 ## Web Application Security
 
@@ -345,7 +326,7 @@
     - [ ] Logging and auditing
   - [ ] Security policies and procedures
 
-# System Design and Architecture
+## System Design and Architecture
 
 - [ ] Database Design and Management
   - [ ] Relational vs. NoSQL databases
@@ -480,7 +461,7 @@
   - [ ] Scalability and availability with containerization
   - [ ] Cloud-based containerization solutions
 
-# Data Structure and Algorithm
+## Data Structure and Algorithm
 
 - [x] Introduction to Data Structure and Algorithm
 
@@ -824,18 +805,52 @@ Advanced topics:
 40. Find K Pairs with Smallest Sums
 
 
-# Tools
-- JMeter
-- Postman
-- Docker
-- Sonar
+## Cloud Services
 
-# Deployment Patterns
-- Canary Release
-- Blue/Green Deployment
-- Feature Toggle
-- A/B Testing
-- Dark Launches
+- [ ] Google Cloud
+- [ ] AWS Services
+  - [ ] Dynamodb
+
+## Tools
+
+- [ ] Docker
+- [ ] Postman
+- [ ] JMeter
+
+## Techinal Skills/Career
+
+- [ ] UI/UX Design
+- [ ] Wordpress Development
+- [ ] Webflow Development
+- [ ] Web Development
+- [ ] Frontend Development
+- [ ] Backend Development
+- [ ] Quality Assurance
+- [ ] Project Manager
+- [ ] Scrum Master
+- [ ] Team Lead
+- [ ] Tech Lead
+- [ ] Digital Marketing
+- [ ] Graphics Design
+- [x] Chrome Extension
+
+## Interview Preparation
+
+- [ ] Web Developer
+- [ ] Frontend Developer
+- [ ] ReactJS Developer
+- [ ] Backend Developer
+
+## Software Development Tools
+
+- [ ] JMeter
+- [ ] Postman
+- [ ] Docker
+- [ ] Sonar
+- [ ] Git and Github
+- [ ] Jenkins
+- [ ] Selenium
+- [ ] Visual Studio Code
 
 ## OOPs
 - Introduction to Object-Oriented Programming
@@ -957,9 +972,9 @@ Advanced topics:
 - SQL Injection
 - Webhook
 
-# Important Links to Follow
+## Important Links to Follow
 
-## Low Level Design
+### Low Level Design
 
 - https://lnkd.in/dT3H8uji
 - https://www.codekarle.com/
@@ -972,9 +987,9 @@ Advanced topics:
 - https://lnkd.in/gAXKJNrP
 - https://lnkd.in/gv63EQMr
 
-## System Design
+### System Design
 
-### System Design and Architecture
+#### System Design and Architecture
 
 - https://github.com/puncsky/system-design-and-architecture
 - https://github.com/madd86/awesome-system-design
@@ -982,7 +997,7 @@ Advanced topics:
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/donnemartin/system-design-primer
 
-### System Design
+#### System Design
 - Solved System Design Case Studies: https://bit.ly/3dCG1rc
 - System Design Important terms: https://bit.ly/3Om9d3H
 - Most Popular System Design Questions: https://bit.ly/3E9oH7K
@@ -1002,7 +1017,7 @@ Advanced topics:
 - System Design Playlist: https://lnkd.in/dQzUk9Ek
 - System Design Primer Course: https://lnkd.in/dKPi59vK
 
-### System Design Case Studies
+#### System Design Case Studies
 -  Design Netflix: 
    -  https://bit.ly/3GrAUG1
    -  https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
