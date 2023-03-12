@@ -9,11 +9,12 @@ metaDescription: ""
 ## Topics
 
 - HTML
+- CSS
 - JavaScript
-- GO
-- NodeJs
 - ReactJs
   - React Hooks
+- NodeJs
+- GO
 - SQL
 
 ## Resources
