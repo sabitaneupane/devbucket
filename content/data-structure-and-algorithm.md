@@ -29,7 +29,6 @@ In summary, data structures provide a framework for organizing and storing data,
  | Phone book                         | `Trie` Data Structure                                                  |
  | Finding shortest path in a network | `Graph` Data Structure with algorithms like Dijkstra's or Bellman-Ford |
 
-
 ## Linear vs Non-linear data structures
 
 ### Linear data structure

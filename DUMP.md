@@ -492,7 +492,6 @@
   - [ ] Branch and Bound algorithm
   - [ ] Math and Bit Manipulation
   - [ ] Approximation algorithms
-  - [ ]  algorithms
   - [ ] NP-hard and NP-complete problems
 - [ ] Coding Patterns
   - [x] Two Pointer Approach
@@ -934,6 +933,8 @@ Dynamic Programming:
 - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/donnemartin/system-design-primer
+- https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
+
 
 #### System Design
 - Solved System Design Case Studies: https://bit.ly/3dCG1rc
@@ -985,4 +986,3 @@ Dynamic Programming:
 -  Design API Rate Limiter: https://bit.ly/3BIVuh7
 -  Design Ecommerce: 
    -  https://lnkd.in/gyMHRC5S
-
