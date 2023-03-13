@@ -29,7 +29,6 @@ In summary, data structures provide a framework for organizing and storing data,
  | Phone book                         | `Trie` Data Structure                                                  |
  | Finding shortest path in a network | `Graph` Data Structure with algorithms like Dijkstra's or Bellman-Ford |
 
-
 ## Linear vs Non-linear data structures
 
 ### Linear data structure
@@ -44,51 +43,55 @@ Some common examples of linear data structures include: Array, Linked list, Stac
 
 A non-linear data structure is a data structure where the data elements are not arranged in a sequential manner. In other words, there is no linear sequence of data elements, and the relationship between the elements is not necessarily hierarchical or one-dimensional. Non-linear data structures are often used to represent complex relationships and are suitable for representing data with multiple levels of relationships.
 
- In a tree, each node has one or more child nodes, forming a hierarchical structure. In a graph, nodes can have multiple connections to other nodes, forming a complex network. In a heap, the elements are organized in a hierarchical order, with the root element having the highest priority.
+In a tree, each node has one or more child nodes, forming a hierarchical structure. In a graph, nodes can have multiple connections to other nodes, forming a complex network. In a heap, the elements are organized in a hierarchical order, with the root element having the highest priority.
 
 Non-linear data structures are often used for complex operations like searching, sorting, and indexing. They are generally more complex to implement and operate on than linear data structures but can offer better performance for certain types of operations.
 
 Some common examples of non-linear data structures include: Tree, Heap, Graph, Trie
 
-## Topics
 
-- Introduction to Data Structure and Algorithm
-- Complexities and Notations
-- Data Structure
-  - Built-in data structure
-    - Strings
-    - Arrays
-    - Lists
-    - Sets
-    - Maps/Dictionaries
-    - Queues
-    - Stacks
-    - Tuples
-  - Custom data structure
-    - Linked List
-    - Tree
-    - Graph
-    - Hash Table
-    - Heap
-    - Matrix/Grid
-    - Trie
-- Algorithm
-  - Searching algorithms
-  - Sorting algorithms
-  - Divide and conquer algorithms
-  - Greedy methodology
-  - Recursion
-  - Backtracking algorithm
-  - Dynamic Programming
-  - Pattern Searching
-  - Mathematical algorithms
-  - Geometric algorithms
-  - Bitwise algorithms
-  - Randomized algorithms
-  - Branch and Bound algorithm
-  - Math and Bit Manipulation
-  - Approximation algorithms
-  - Sliding Window algorithms
+## Most Asked Question
+
+- Binary Search
+- Search in Rotated Sorted Array
+- Search in Rotated Sorted Array II
+- Median of Two Sorted Arrays
+- Find First and Last Position of Element in Sorted Array
+- Search a 2D Matrix
+- Search a 2D Matrix II
+- Search Insert Position
+- Kth Smallest Element in a Sorted Matrix
+- Find Peak Element
+- Split Array Largest Sum
+- Find Minimum in Rotated Sorted Array
+- Find Minimum in Rotated Sorted Array II
+- Wood Cut
+- Sqrt(x)
+- Guess Number Higher or Lower
+- First Bad Version
+- Count of Smaller Numbers After Self
+- Count of Range Sum
+- Is Subsequence
+- Valid Perfect Square
+- Arranging Coins
+- Heaters
+- Find K Closest Elements
+- H-Index
+- H-Index II
+- First Missing Positive
+- Find the Duplicate Number
+- Maximum Gap
+- Super Pow
+- Missing Number
+- Kth Largest Element in an Array
+- H-Index III
+- Find the Kth Smallest Sum of a Matrix With Sorted Rows
+- Find the Kth Smallest Pair Distance
+- Find the Smallest Divisor Given a Threshold
+- Find K-th Smallest Pair Distance
+- Find the Kth Number in Lexicographical Order
+- Find the Median of Two Sorted Arrays of Size n and m
+- Find K Pairs with Smallest Sums
 
 ## Visual 
 

@@ -24,12 +24,12 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [HTML](./content/programming-languages-libraries-and-frameworks/1.html.md)
 - [CSS](./content/programming-languages-libraries-and-frameworks/2.css.md)
+  - [Flexbox](./content/programming-languages-libraries-and-frameworks/2.css/flexbox.md)
 - [JavaScript](./content/programming-languages-libraries-and-frameworks/3.javascript.md)
 - [ReactJs](./content/programming-languages-libraries-and-frameworks/4.react-js.md)
   - [React Hooks](./content/programming-languages-libraries-and-frameworks/4.react-js/reack-hooks.md)
 - [NodeJs](./content/programming-languages-libraries-and-frameworks/5.node-js.md)
 - [GO](./content/programming-languages-libraries-and-frameworks/6.go.md)
-
 - [SQL](./content/programming-languages-libraries-and-frameworks/7.sql.md)
 
 ---
@@ -114,21 +114,22 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - Built-in data structure
     - [Strings](./content/data-structure-and-algorithm/2.data-structure/1.strings.md)
     - [Array](./content/data-structure-and-algorithm/2.data-structure/2.array.md)
-    - [Sets]()
-    - [Maps]()
-    - [Dictionaries]()
-    - [Queues]()
-    - [Stacks]()
-    - [Tuples]()
+    - [Sets](./content/data-structure-and-algorithm/2.data-structure/3.sets.md)
+    - [Maps](./content/data-structure-and-algorithm/2.data-structure/4.maps.md)
+    - [Dictionary](./content/data-structure-and-algorithm/2.data-structure/5.dictionary.md)
+    - [Tuples](./content/data-structure-and-algorithm/2.data-structure/6.tuples.md)
   - Custom data structure
-    - [Linked List]()
-    - [Tree]()
-    - [Graph]()
-    - [Hash Table]()
-    - [Heap]()
-    - [Matrix/Grid]()
-    - [Trie]()
-- [Algorithm]()
+    - [Linked List](./content/data-structure-and-algorithm/2.data-structure/7.linked-list.md)
+    - [Stacks](./content/data-structure-and-algorithm/2.data-structure/8.stacks.md)
+    - [Queues](./content/data-structure-and-algorithm/2.data-structure/9.queues.md)
+    - [Tree](./content/data-structure-and-algorithm/2.data-structure/10.tree.md)
+    - [Graph](./content/data-structure-and-algorithm/2.data-structure/11.graph.md)
+    - [Hash Table](./content/data-structure-and-algorithm/2.data-structure/12.hash-table.md)
+    - [Heap](./content/data-structure-and-algorithm/2.data-structure/13.heap.md)
+    - [Matrix](./content/data-structure-and-algorithm/2.data-structure/14.matrix.md)
+    - [Grid](./content/data-structure-and-algorithm/2.data-structure/15.grid.md)
+    - [Trie](./content/data-structure-and-algorithm/2.data-structure/16.trie.md)
+- [Algorithm](./content/data-structure-and-algorithm/3.algorithm.md)
   - [Searching algorithms]()
   - [Sorting algorithms]()
   - [Divide and conquer algorithms]()
@@ -145,6 +146,9 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Math and Bit Manipulation]()
   - [Approximation algorithms]()
   - [Sliding Window algorithms]()
+- [Coding Patterns](./content/data-structure-and-algorithm/4.coding-patterns.md)
+  - [Two-Pointer Approach](./content/data-structure-and-algorithm/4.coding-patterns.md/#two-pointer-approach)
+
 ---
 
 ## [Technical Career Path and Guide](./content/technical-career-path-and-guide)
