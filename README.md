@@ -76,6 +76,10 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Encapsulate What Varies](./content/software-design-and-architecture/4.software-design-principles.md/#encapsulate-what-varies)
   - [Program Against Abstractions](./content/software-design-and-architecture/4.software-design-principles.md/#program-against-abstractions)
   - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
+- [Software Design Patterns](./content/software-design-and-architecture/5.software-design-patterns.md)
+  - [Creational Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#creational-patterns)
+  - [Structural Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#structural-patterns)
+  - [Behavioral Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#behavioral-patterns)
 ---
 
 ## [System Design and Architecture](./content/system-design-and-architecture.md)
@@ -119,16 +123,16 @@ DevBucket is an all-in-one resource for everything programming-related, includin
     - [Dictionary](./content/data-structure-and-algorithm/2.data-structure/5.dictionary.md)
     - [Tuples](./content/data-structure-and-algorithm/2.data-structure/6.tuples.md)
   - Custom data structure
-    - [Linked List]()
-    - [Stacks]()
-    - [Queues]()
-    - [Tree]()
-    - [Graph]()
-    - [Hash Table]()
-    - [Heap]()
-    - [Matrix]()
-    - [Grid]()
-    - [Trie]()
+    - [Linked List](./content/data-structure-and-algorithm/2.data-structure/7.linked-list.md)
+    - [Stacks](./content/data-structure-and-algorithm/2.data-structure/8.stacks.md)
+    - [Queues](./content/data-structure-and-algorithm/2.data-structure/9.queues.md)
+    - [Tree](./content/data-structure-and-algorithm/2.data-structure/10.tree.md)
+    - [Graph](./content/data-structure-and-algorithm/2.data-structure/11.graph.md)
+    - [Hash Table](./content/data-structure-and-algorithm/2.data-structure/12.hash-table.md)
+    - [Heap](./content/data-structure-and-algorithm/2.data-structure/13.heap.md)
+    - [Matrix](./content/data-structure-and-algorithm/2.data-structure/14.matrix.md)
+    - [Grid](./content/data-structure-and-algorithm/2.data-structure/15.grid.md)
+    - [Trie](./content/data-structure-and-algorithm/2.data-structure/16.trie.md)
 - [Algorithm](./content/data-structure-and-algorithm/3.algorithm.md)
   - [Searching algorithms]()
   - [Sorting algorithms]()
@@ -208,6 +212,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - Study software engineering principles such as software design patterns, SOLID principles, and Agile methodologies.
   - Study the basics of devops and continuous integration and delivery.
   - Study the basics of cloud computing.
+
+---
 
 ## Important Links to Follow
 

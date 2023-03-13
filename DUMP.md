@@ -34,12 +34,7 @@
 - [x] Programming Paradigms
 - [x] Object Oriented Programming
 - [x] Software Design Principles
-- [ ] Design Patterns
-  - [ ] Creational patterns
-  - [ ] Structural patterns
-  - [ ] Behavioral patterns
-  - [ ] Architectural patterns
-
+- [x] Design Patterns
 - [ ] Architecture Principles
 
 - [ ] Architecture Styles
