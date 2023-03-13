@@ -2,31 +2,24 @@
 
 ## Programming Languages, Libraries and Frameworks
 
-- [ ] HTML
-- [ ] Semantic HTML
+- [ ] HTML and Semantic HTML
 - [ ] CSS
-- [ ] Basic JavaScript
-- [ ] Advance JavaScript
+  - [ ] Flexbox
+- [ ] JavaScript
 - [ ] ReactJS
-  - [ ] Why create-react-app does not start offline
-  - [ ] What does ws://localhost:3000/ws mean in react app
   - [ ] Context API
-  - [ ] Why Key is important in looped content
   - [ ] State Management
-  - [ ] Formik and Yup
   - [x] React Hooks and Custom Hooks
-  - [ ] Is <App> !== App() ?
-- [ ] NodeJS/ExpressJS
+- [ ] Formik and Yup
 - [ ] Typescript
+- [ ] NodeJS
+- [ ] ExpressJS
+- [ ] GO
+- [ ] SQL
 - [ ] MongoDB
 - [ ] Next.js
 - [ ] Graphql
 - [ ] ElasticSearch
-- [ ] GO
-  - [ ] Working with BSON-GO
-    - [ ] GO value to BSON -> Marshalling
-    - [ ] BSON to GO value -> Unmarshalling
-- [ ] SQL
 - [ ] NoSQL databases
 - [ ] In-Memory Database: Redis
 - [ ] Firebase
@@ -35,64 +28,39 @@
 - [ ] Testing frameworks such as React testing library, Jest, Enzyme, Mocha, Selenium or Cypress
 - [ ] Data Visualization (D3 JS, Tableau)
 
-## Cloud Services
-
-- [ ] Google Cloud
-- [ ] AWS Services
-  - [ ] Dynamodb
-
-## Tools
-
-- [ ] Docker
-- [ ] Postman
-- [ ] JMeter
-
-## Techinal Skills/Career
-
-- [ ] UI/UX Design
-- [ ] Wordpress Development
-- [ ] Webflow Development
-- [ ] Web Development
-- [ ] Frontend Development
-- [ ] Backend Development
-- [ ] Quality Assurance
-- [ ] Project Manager
-- [ ] Scrum Master
-- [ ] Team Lead
-- [ ] Tech Lead
-- [ ] Digital Marketing
-- [ ] Graphics Design
-- [x] Chrome Extension
-
-## Interview Preparation
-
-- [ ] Web Developer
-- [ ] Frontend Developer
-- [ ] ReactJS Developer
-- [ ] Backend Developer
-
 ## Software Design and Architecture
 
 - [x] Clean Code
 - [x] Programming Paradigms
 - [x] Object Oriented Programming
 - [x] Software Design Principles
-
 - [ ] Design Patterns
   - [ ] Creational patterns
   - [ ] Structural patterns
   - [ ] Behavioral patterns
   - [ ] Architectural patterns
+
 - [ ] Architecture Principles
 
 - [ ] Architecture Styles
+  - [ ] Client-Server
+  - [ ] Peer-to-Peer
+  - [ ] Event-Driven
+  - [ ] Layered
+  - [ ] Microkernel
+  - [ ] Message Bus
+  - [ ] Blackboard
+  - [ ] Space-Based
+  - [ ] Microservices
+  - [ ] Service-Oriented
+  - [ ] Data-Centric
+  - [ ] Component-Based
+  - [ ] Domain-Driven
 
 - [ ] Architecture Patterns
 
   - [ ] Monolithic Architecture
-  - [ ] Microservices Architecture
   - [ ] Layered Architecture
-  - [ ] Service-Oriented Architecture (SOA)
   - [ ] Client-Server Architecture
   - [ ] Model-View-Controller (MVC) Architecture
   - [ ] Representational State Transfer (REST) Architecture
@@ -103,19 +71,21 @@
   - [ ] Space-Based Architecture
   - [ ] Blackboard Architecture
   - [ ] Microkernel Architecture
+  - [ ] Microservices Architecture
+  - [ ] Service-Oriented Architecture (SOA)
 
 - [ ] Enterprise Patterns and Architecture
 
   - [ ] Three-Tier Architecture
   - [ ] N-Tier Architecture
+  - [ ] Component-Based Architecture
   - [ ] Domain-Driven Design (DDD)
   - [ ] Service Oriented Architecture (SOA)
   - [ ] Event-Driven Architecture (EDA)
   - [ ] Command and Query Responsibility Segregation (CQRS)
   - [ ] Event Sourcing Architecture
-  - [ ] Shared-Nothing Architecture
   - [ ] Publish-Subscribe Pattern
-  - [ ] Component-Based Architecture
+  - [ ] Shared-Nothing Architecture
   - [ ] Cloud Architecture
 
 
@@ -231,14 +201,28 @@
   - [ ] Serverless Computing and Function-as-a-Service (FaaS)
   - [ ] Implementing Web APIs for Advanced Features (e.g. WebSockets, Web Workers, WebRTC, Canvas, WebGL, or Web 3D UI Frameworks)
 
-- [ ] Software Development Process and Deployment Strategies
+- [ ] Software Development Process
 
   - [ ] Test-Driven Development (TDD) Approach
   - [ ] DevOps and Code-Driven Infrastructure Management (Infrastructure as Code)
   - [ ] Automated Testing and Test Framework Integration
-  - [ ] A/B Testing and Toggle Implementation (Feature Flags)
   - [ ] Testing methodologies (unit testing, integration testing, etc.)
 
+- [ ] Deployment Strategies and Patterns
+
+  - [ ] Deployment Strategies
+    - [ ] Continuous Deployment
+    - [ ] Continuous Delivery
+    - [ ] Rolling Deployment
+    - [ ] Immutable Deployment
+    - [ ] Blue/Green Deployment
+    - [ ] Canary Deployment
+  - [ ] Deployment Patterns
+    - [ ] Canary Release
+    - [ ] Blue/Green Deployment
+    - [ ] Feature Toggle
+    - [ ] A/B Testing
+    - [ ] Dark Launches
 
 ## Web Application Security
 
@@ -332,7 +316,7 @@
     - [ ] Logging and auditing
   - [ ] Security policies and procedures
 
-# System Design and Architecture
+## System Design and Architecture
 
 - [ ] Database Design and Management
   - [ ] Relational vs. NoSQL databases
@@ -467,7 +451,7 @@
   - [ ] Scalability and availability with containerization
   - [ ] Cloud-based containerization solutions
 
-# Data Structure and Algorithm
+## Data Structure and Algorithm
 
 - [x] Introduction to Data Structure and Algorithm
 
@@ -475,11 +459,11 @@
 
 - [ ] Data Structure
   - [ ] Built-in data structure
-    - [ ] Strings
+    - [x] Strings
     - [ ] Arrays
-    - [ ] Lists
     - [ ] Sets
-    - [ ] Maps/Dictionaries
+    - [ ] Maps
+    - [ ] Dictionaries
     - [ ] Queues
     - [ ] Stacks
     - [ ] Tuples
@@ -743,77 +727,120 @@ Advanced topics:
 - [ ] Approximation algorithms
 - [ ] NP-hard and NP-complete problems
 
-# Interview in FAANG companies
 
-Data Structures:
+### IMP topics
 
-- [ ] Start with the basics of data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
-- [ ] Practice problems from LeetCode, HackerRank, and GeeksforGeeks to reinforce your understanding.
-- [ ] Study advanced data structures like Tries, AVL Trees, Segment Trees, and Hash Tables.
-- [ ] Study the time and space complexity of different data structures and algorithms.
+- Sliding Window
+- Islands (Matrix Traversal)
+- Two Pointers
+- Fast & Slow Pointers
+- Merge Intervals
+- Cyclic Sort
+- In-place Reversal of a LinkedList
+- Tree Breadth-First Search
+- Tree Depth First Search
+- Two Heaps
+- Subsets
+- Modified Binary Search
+- Bitwise XOR
+- Top ‘K’ Elements
+- K-way Merge
+- Topological Sort
+- 0/1 Knapsack
+- Fibonacci Numbers
+- Palindromic Subsequence
+- Longest Common Substring
 
-Algorithms:
+### Most Asked Question
 
-- [ ] Study sorting algorithms such as bubble sort, insertion sort, quick sort, merge sort, and heap sort.
-- [ ] Study searching algorithms such as binary search and linear search.
-- [ ] Study dynamic programming algorithms for problems like Longest Common Subsequence, Longest Increasing Subsequence, and knapsack.
-- [ ] Study graph algorithms like DFS, BFS, Dijkstra's Algorithm, and Prim's Algorithm.
-
-Operating Systems:
-
-- [ ] Study the basics of operating systems, process management, and memory management.
-- [ ] Study file systems and disk scheduling algorithms.
-- [ ] Study concurrency and synchronization.
-
-Database Systems:
-
-- [ ] Study the basics of relational database management systems and SQL.
-- [ ] Study indexing, transaction management, and database optimization techniques.
-- [ ] Study NoSQL databases and their use cases.
-
-Programming Languages:
-
-- [ ] Choose the programming languages you are comfortable with, or the ones required by the company you are interviewing for.
-- [ ] Study the language syntax, standard libraries, and popular frameworks.
-- [ ] Practice solving problems in the language to improve your coding skills.
-
-Networking:
-
-- [ ] Study the basics of computer networking, such as the OSI model, IP addresses, and DNS.
-- [ ] Study protocols such as TCP, UDP, and HTTP.
-- [ ] Study the basics of security in computer networks, such as encryption and firewalls.
-
-Systems Design:
-
-- [ ] Study system design and architecture
-- [ ] Study scalability, availability, and reliability.
-- [ ] Study microservices and distributed systems.
-- [ ] Study load balancing and caching.
-
-Security:
-
-- [ ] Study the basics of computer security,
-- [ ] Study encryption, authentication, and access control.
-
-Others:
-
-- [ ] Study software engineering principles such as software design patterns, SOLID principles, and Agile methodologies.
-- [ ] Study the basics of devops and continuous integration and delivery.
-- [ ] Study the basics of cloud computing.
+1. Binary Search
+2. Search in Rotated Sorted Array
+3. Search in Rotated Sorted Array II
+4. Median of Two Sorted Arrays
+5. Find First and Last Position of Element in Sorted Array
+6. Search a 2D Matrix
+7. Search a 2D Matrix II
+8. Search Insert Position
+9. Kth Smallest Element in a Sorted Matrix
+10. Find Peak Element
+11. Split Array Largest Sum
+12. Find Minimum in Rotated Sorted Array
+13. Find Minimum in Rotated Sorted Array II
+14. Wood Cut
+15. Sqrt(x)
+16. Guess Number Higher or Lower
+17. First Bad Version
+18. Count of Smaller Numbers After Self
+19. Count of Range Sum
+20. Is Subsequence
+21. Valid Perfect Square
+22. Arranging Coins
+23. Heaters
+24. Find K Closest Elements
+25. H-Index
+26. H-Index II
+27. First Missing Positive
+28. Find the Duplicate Number
+29. Maximum Gap
+30. Super Pow
+31. Missing Number
+32. Kth Largest Element in an Array
+33. H-Index III
+34. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+35. Find the Kth Smallest Pair Distance
+36. Find the Smallest Divisor Given a Threshold
+37. Find K-th Smallest Pair Distance
+38. Find the Kth Number in Lexicographical Order
+39. Find the Median of Two Sorted Arrays of Size n and m
+40. Find K Pairs with Smallest Sums
 
 
-# System Design and Architecture
+## Cloud Services
 
-- https://github.com/puncsky/system-design-and-architecture
-- https://github.com/madd86/awesome-system-design
-- https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
-- https://github.com/karanpratapsingh/system-design
-- https://github.com/donnemartin/system-design-primer
+- [ ] Google Cloud
+- [ ] AWS Services
+  - [ ] Dynamodb
 
-# FAANG Interview
+## Tools
 
-- https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
+- [ ] Docker
+- [ ] Postman
+- [ ] JMeter
 
+## Techinal Skills/Career
+
+- [ ] UI/UX Design
+- [ ] Wordpress Development
+- [ ] Webflow Development
+- [ ] Web Development
+- [ ] Frontend Development
+- [ ] Backend Development
+- [ ] Quality Assurance
+- [ ] Project Manager
+- [ ] Scrum Master
+- [ ] Team Lead
+- [ ] Tech Lead
+- [ ] Digital Marketing
+- [ ] Graphics Design
+- [x] Chrome Extension
+
+## Interview Preparation
+
+- [ ] Web Developer
+- [ ] Frontend Developer
+- [ ] ReactJS Developer
+- [ ] Backend Developer
+
+## Software Development Tools
+
+- [ ] JMeter
+- [ ] Postman
+- [ ] Docker
+- [ ] Sonar
+- [ ] Git and Github
+- [ ] Jenkins
+- [ ] Selenium
+- [ ] Visual Studio Code
 
 ## OOPs
 - Introduction to Object-Oriented Programming
@@ -894,3 +921,120 @@ Others:
   - Generic collections (List, Dictionary, Queue, Stack)
   - Iterating over collections
 
+## API terminology
+
+- API
+- API Call
+- API Economy
+- API Integration
+- API Gateway
+- API Lifecycle
+- API Request
+- API Keys
+- API Layer
+- API Portal
+- API Security
+- APIgee
+- APISec
+- Application
+- Framework
+- Burp Suite
+- CRUD
+- Cache
+- DDOs
+- Resource
+- Request
+- Response
+- Response Code
+- Payload
+- Pagination
+- Method
+- Query Parameters
+- Authentication
+- Rate Limiting
+- API Documentation
+- Logic Flas
+- JSON
+- Microservices
+- Parameters
+- Environment
+- REST
+- SQL Injection
+- Webhook
+
+## Important Links to Follow
+
+### Low Level Design
+
+- https://lnkd.in/dT3H8uji
+- https://www.codekarle.com/
+- https://lnkd.in/d5GbEdWy
+- https://lnkd.in/dqptpeYv
+- https://lnkd.in/d4bKKp3h
+- https://lnkd.in/dSs9gJ_9
+- https://lnkd.in/dUb4X_73
+- https://lnkd.in/gME6rpQz
+- https://lnkd.in/gAXKJNrP
+- https://lnkd.in/gv63EQMr
+
+### System Design
+
+#### System Design and Architecture
+
+- https://github.com/puncsky/system-design-and-architecture
+- https://github.com/madd86/awesome-system-design
+- https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+- https://github.com/karanpratapsingh/system-design
+- https://github.com/donnemartin/system-design-primer
+
+#### System Design
+- Solved System Design Case Studies: https://bit.ly/3dCG1rc
+- System Design Important terms: https://bit.ly/3Om9d3H
+- Most Popular System Design Questions: https://bit.ly/3E9oH7K
+- Complete System Design Basics Series: https://bit.ly/3rG1cfr
+- System design basics: https://bit.ly/3SuUR0Y
+- Horizontal and vertical scaling: https://bit.ly/3slq5xh
+- Load balancing and Message queues: https://bit.ly/3sp0FP4
+- High-level design and low-level design, Consistent Hashing, Monolithic and Microservices architecture: https://bit.ly/3DnEfEm
+- Caching, Indexing, Proxies: https://bit.ly/3SvyVDc
+- Networking, How Browsers work, Content Network Delivery ( CDN): https://bit.ly/3TOHQRb
+- Database Sharding, CAP Theorem, Database schema Design: https://bit.ly/3CZtfLN
+- Concurrency, API, Components + OOP + Abstraction : https://bit.ly/3sqQrhj
+- Estimation and Planning, Performance: https://bit.ly/3z9dSPN
+- Map Reduce, Patterns, and Microservices: https://bit.ly/3zcsfmv
+- SQL vs NoSQL and Cloud: https://bit.ly/3z8Aa49
+- Most Popular System Design Questions: https://bit.ly/3Dp40Ux
+- System Design Playlist: https://lnkd.in/dQzUk9Ek
+- System Design Primer Course: https://lnkd.in/dKPi59vK
+
+#### System Design Case Studies
+-  Design Netflix: 
+   -  https://bit.ly/3GrAUG1
+   -  https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
+-  Design Reddit: https://bit.ly/3OgGJrL
+-  Design Messenger App : https://bit.ly/3DoAAXi
+-  Design Instagram: 
+   -  https://bit.ly/3BFeHlh
+   -  https://lnkd.in/gnBWQqs6
+-  Design Dropbox: https://bit.ly/3SnhncU
+-  Design Youtube: https://bit.ly/3dFyvvy
+-  Design Tinder: 
+   -  https://bit.ly/3Mcyj3X
+   -  https://lnkd.in/gbf5WKNW
+-  Design Yelp: https://bit.ly/3E7IgO5
+-  Design Whatsapp: 
+   -  https://bit.ly/3M2GOhP
+   -  https://lnkd.in/gGxPqGw6
+-  Design URL shortener : https://bit.ly/3xP078x
+-  Design Amazon Prime Video: https://bit.ly/3hVpWP4
+-  Design Twitter: https://bit.ly/3qIG9Ih
+-  Design Uber: https://bit.ly/3fyvnlT
+-  Design TikTok : 
+   -  https://bit.ly/3UUlKxP
+   -  https://lnkd.in/g8wn2AbE
+-  Design Facebook's Newsfeed: https://bit.ly/3RldaW7
+-  Design Web Crawler: https://bit.ly/3DPZTBB
+-  Design API Rate Limiter: https://bit.ly/3BIVuh7
+-  Design Ecommerce: 
+   -  https://lnkd.in/gyMHRC5S
+- https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
