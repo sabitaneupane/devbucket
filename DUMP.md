@@ -493,6 +493,11 @@
   - [ ] Math and Bit Manipulation
   - [ ] Approximation algorithms
   - [ ] Sliding Window algorithms
+- [ ] Few Key Topics
+  - [ ] Two Pointer Approach
+- [ ] Few More Topics
+  - [ ] Dynamic Array
+  - [ ] Arraylist
 
 ### Sub-topics
 
