@@ -75,20 +75,7 @@
 
 - [x] Clean Code
 - [x] Programming Paradigms
-
-- [ ] Object Oriented Programming
-  - [ ] Classes and objects
-  - [ ] Encapsulation
-  - [ ] Inheritance
-  - [ ] Polymorphism
-  - [ ] Abstraction
-  - [ ] Interfaces
-  - [ ] Method overloading and overriding
-  - [ ] Access modifiers
-  - [ ] Constructors and destructors
-  - [ ] Exception handling
-  - [ ] Generics and collections
-
+- [x] Object Oriented Programming
 - [x] Software Design Principles
 
 - [ ] Design Patterns
@@ -826,3 +813,84 @@ Others:
 # FAANG Interview
 
 - https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md
+
+
+## OOPs
+- Introduction to Object-Oriented Programming
+  - History of OOP
+  - What is OOP?
+  - Characteristics of OOP
+  - Advantages of OOP
+
+- Classes and Objects
+  - Classes and their properties
+  - Objects and their properties
+  - Methods
+  - Class members (fields, properties, methods, events)
+  - Constructors and Destructors
+    - Class constructors
+    - Object initialization
+    - Class destructors
+
+- Modifiers
+  - Access Modifiers 
+    - Public, 
+    - Private, 
+    - Protected, 
+    - Internal
+  - Member Modifiers
+  - Class Level Modifiers
+
+- Inheritance and Composition
+  - Inheritance
+  - Base classes and derived classes
+  - Overriding methods and properties
+  - Hiding methods and properties
+  - Accessing base class members
+  - Importance of Inheritance
+  - Types of Inheritance
+    - Single Inheritance
+    - Multiple Inheritance
+    - Multi-level Inheritance
+    - Hierarchical Inheritance
+    - Hybrid Inheritance
+  - Cyclic Inheritance
+  - Composition over Inheritance
+  
+- Polymorphism
+  - Types of Polymorphism
+    - Method Overloading
+    - Method Overriding
+    - Method Hiding
+  - Method Signature
+  - Object Typecasting
+  - Virtual and abstract methods
+  - Late binding and early binding
+  - Overriding vs. Overloading
+  - Static vs. Dynamic Binding
+
+- Encapsulation
+  - Encapsulation
+  - Properties and methods encapsulation
+  - Data Hiding
+  - Tightly Encapsulated Class
+  - Getters and Setters
+
+- Abstraction 
+  - Abstraction
+  - Abstract Method
+  - Abstract Classes
+
+- Interfaces
+  - Interfaces
+  - Creating and implementing interfaces
+  - Multiple interfaces implementation
+  - Interfaces vs Abstract Classes
+
+- Generics and Collections
+  - Generics
+  - Collections
+  - Defining and using generic classes and methods
+  - Generic collections (List, Dictionary, Queue, Stack)
+  - Iterating over collections
+

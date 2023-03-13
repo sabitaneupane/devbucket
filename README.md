@@ -38,6 +38,17 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Clean Code Daily Read](./content/software-design-and-architecture/1.clean-code/learn.md)
 - [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
 - [Object Oriented Programming](./content/software-design-and-architecture/3.object-oriented-programming.md)
+  - [Introduction](./content/software-design-and-architecture/3.object-oriented-programming.md/#introduction)
+  - [Classes and Objects](./content/software-design-and-architecture/3.object-oriented-programming.md/#classes-and-objects)
+  - [Methods and its types](./content/software-design-and-architecture/3.object-oriented-programming.md/#methods-and-its-types)
+  - [Class Members](./content/software-design-and-architecture/3.object-oriented-programming.md/#class-members)
+  - [Modifiers](./content/software-design-and-architecture/3.object-oriented-programming.md/#modifiers)
+  - [Encapsulation](./content/software-design-and-architecture/3.object-oriented-programming.md/#encapsulation)
+  - [Inheritance](./content/software-design-and-architecture/3.object-oriented-programming.md/#inheritance)
+  - [Polymorphism](./content/software-design-and-architecture/3.object-oriented-programming.md/#polymorphism)
+  - [Abstraction](./content/software-design-and-architecture/3.object-oriented-programming.md/#abstraction)
+  - [Interfaces](./content/software-design-and-architecture/3.object-oriented-programming.md/#interfaces)
+  - [Generics and Collections](./content/software-design-and-architecture/3.object-oriented-programming.md/#generics-and-collections)
 - [Software Design Principles](./content/software-design-and-architecture/4.software-design-principles.md)
   - [Solid Principles](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md)
     - [Single Responsibility Principle (SRP)](./content/software-design-and-architecture/4.software-design-principles/1.solid-principles.md/#single-responsibility-principle-srp)
@@ -97,6 +108,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 **Explore technical career path and guides, including:**
 
-- [Chrome Extension Development](./content/technical-career-path-and-guide/1.chrome-extension-development.md)
+- [Quality Assurance Engineer](./content/technical-career-path-and-guide/1.quality-assurance-engineer.md)
+- [Chrome Extension Development](./content/technical-career-path-and-guide/2.chrome-extension-development.md)
 
 > **_Thank you for using DevBucket as your all-in-one resource for programming_!**
