@@ -480,7 +480,7 @@
   - [ ] Searching algorithms
   - [ ] Sorting algorithms
   - [ ] Divide and conquer algorithms
-  - [ ] Greedy methodology
+  - [ ] Greedy methodology / Greedy Algorithms
   - [ ] Recursion
   - [ ] Backtracking algorithm
   - [ ] Dynamic Programming
@@ -492,38 +492,61 @@
   - [ ] Branch and Bound algorithm
   - [ ] Math and Bit Manipulation
   - [ ] Approximation algorithms
-  - [ ] Sliding Window algorithms
-- [ ] Few Key Topics
-  - [ ] Two Pointer Approach
+  - [ ]  algorithms
+  - [ ] NP-hard and NP-complete problems
+- [ ] Coding Patterns
+  - [x] Two Pointer Approach
+  - [ ] Cyclic Sort
+  - [ ] In-place Reversal of a LinkedList
+  - [ ] Tree Breadth-First Search
+  - [ ] Tree Depth First Search
+  - [ ] Two Heaps
+  - [ ] Subsets
+  - [ ] Modified Binary Search
+  - [ ] Bitwise XOR
+  - [ ] Top ‘K’ Elements
+  - [ ] K-way Merge
+  - [ ] Topological Sort
+  - [ ] 0/1 Knapsack
+  - [ ] Unbounded Knapsack
+  - [ ] Fibonacci Numbers
+  - [ ] Palindromic Subsequence
+  - [ ] Longest Common Substring
+  - [ ] Longest Increasing Subsequence (Dynamic Programming)
+  - [ ] Matrix Chain Multiplication (Dynamic Programming)
+  - [ ] Longest Palindromic Substring (Dynamic Programming)
+  - [ ] Edit Distance (Dynamic Programming)
+  - [ ] Coin Change (Dynamic Programming)
+  - [ ] Maximum Subarray Sum (Dynamic Programming)
+  - [ ] Union Find (Disjoint Sets)
+  - [ ] Huffman Coding (Greedy Algorithms)
+  - [ ] Interval Partitioning
+  - [ ] Backtracking
+  - (Might be Duplucate)
+    - [ ] Memoization
+    - [ ] Brute Force
+    - [ ] Heuristics
+    - [ ] Randomized Algorithms
+    - [ ] Branch and Bound
+    - [ ] Approximation Algorithms
+    - [ ] Trie (Prefix Tree)
+    - [ ] String Anagrams
+    - [ ] Dijkstra's Algorithm (Graph)
+    - [ ] Kadane's Algorithm (Array)
+    - [ ] Dutch National Flag Problem (Array)
+    - [ ] Graph Coloring (Graph)
+    - [ ] Binary Search Tree (Tree)
+    - [ ] Bit Manipulation
+    - [ ] 
+    - [ ] Islands (Matrix Traversal)
+    - [ ] Fast & Slow Pointers
+    - [ ] Merge Intervals
 - [ ] Few More Topics
   - [ ] Dynamic Array
   - [ ] Arraylist
 
+
 ### Sub-topics
-
-Arrays:
-
-- [ ] Overview of array data structure and its operations
-- [ ] Dynamic arrays and resizing arrays
-- [ ] Topics related to arrays:
-  - [ ] Array rotation
-  - [ ] Rearranging an array
-  - [ ] Range queries in the array
-  - [ ] Multidimensional array
-  - [ ] Kadane’s algorithm
-  - [ ] Dutch national flag algorithm
-
-Strings:
-
-- [ ] String operations, such as concatenation and substring
-- [ ] String matching algorithms, like KMP and Rabin-Karp
-- [ ] Topics related to strings:
-  - [ ] Subsequence and substring
-  - [ ] Reverse and rotation in a string
-  - [ ] Binary String
-  - [ ] Palindrome
-  - [ ] Lexicographic pattern
-  - [ ] Pattern searching
 
 Linked Lists:
 
@@ -719,87 +742,6 @@ Dynamic Programming:
   - [ ] Bitmasking and Dynamic Programming | Set 1
   - [ ] Bitmasking and Dynamic Programming | Set-2 (TSP)
   - [ ] Digit DP
-
-- [ ] Tuple and Sets
-
-- [ ] Trie
-
-- [ ] Sliding Window
-
-Advanced topics:
-
-- [ ] Branch and bound
-- [ ] Randomized algorithms
-- [ ] Approximation algorithms
-- [ ] NP-hard and NP-complete problems
-
-
-### IMP topics
-
-- Sliding Window
-- Islands (Matrix Traversal)
-- Two Pointers
-- Fast & Slow Pointers
-- Merge Intervals
-- Cyclic Sort
-- In-place Reversal of a LinkedList
-- Tree Breadth-First Search
-- Tree Depth First Search
-- Two Heaps
-- Subsets
-- Modified Binary Search
-- Bitwise XOR
-- Top ‘K’ Elements
-- K-way Merge
-- Topological Sort
-- 0/1 Knapsack
-- Fibonacci Numbers
-- Palindromic Subsequence
-- Longest Common Substring
-
-### Most Asked Question
-
-1. Binary Search
-2. Search in Rotated Sorted Array
-3. Search in Rotated Sorted Array II
-4. Median of Two Sorted Arrays
-5. Find First and Last Position of Element in Sorted Array
-6. Search a 2D Matrix
-7. Search a 2D Matrix II
-8. Search Insert Position
-9. Kth Smallest Element in a Sorted Matrix
-10. Find Peak Element
-11. Split Array Largest Sum
-12. Find Minimum in Rotated Sorted Array
-13. Find Minimum in Rotated Sorted Array II
-14. Wood Cut
-15. Sqrt(x)
-16. Guess Number Higher or Lower
-17. First Bad Version
-18. Count of Smaller Numbers After Self
-19. Count of Range Sum
-20. Is Subsequence
-21. Valid Perfect Square
-22. Arranging Coins
-23. Heaters
-24. Find K Closest Elements
-25. H-Index
-26. H-Index II
-27. First Missing Positive
-28. Find the Duplicate Number
-29. Maximum Gap
-30. Super Pow
-31. Missing Number
-32. Kth Largest Element in an Array
-33. H-Index III
-34. Find the Kth Smallest Sum of a Matrix With Sorted Rows
-35. Find the Kth Smallest Pair Distance
-36. Find the Smallest Divisor Given a Threshold
-37. Find K-th Smallest Pair Distance
-38. Find the Kth Number in Lexicographical Order
-39. Find the Median of Two Sorted Arrays of Size n and m
-40. Find K Pairs with Smallest Sums
-
 
 ## Cloud Services
 
@@ -1043,3 +985,4 @@ Advanced topics:
 -  Design API Rate Limiter: https://bit.ly/3BIVuh7
 -  Design Ecommerce: 
    -  https://lnkd.in/gyMHRC5S
+
