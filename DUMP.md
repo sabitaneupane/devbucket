@@ -494,7 +494,7 @@
   - [ ] Approximation algorithms
   - [ ] NP-hard and NP-complete problems
 - [ ] Coding Patterns
-  - [x] Two Pointer Approach
+  - [x] Two-Pointer Approach
   - [ ] Cyclic Sort
   - [ ] In-place Reversal of a LinkedList
   - [ ] Tree Breadth-First Search

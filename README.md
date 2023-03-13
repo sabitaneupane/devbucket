@@ -24,12 +24,12 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 
 - [HTML](./content/programming-languages-libraries-and-frameworks/1.html.md)
 - [CSS](./content/programming-languages-libraries-and-frameworks/2.css.md)
+  - [Flexbox](./content/programming-languages-libraries-and-frameworks/2.css/flexbox.md)
 - [JavaScript](./content/programming-languages-libraries-and-frameworks/3.javascript.md)
 - [ReactJs](./content/programming-languages-libraries-and-frameworks/4.react-js.md)
   - [React Hooks](./content/programming-languages-libraries-and-frameworks/4.react-js/reack-hooks.md)
 - [NodeJs](./content/programming-languages-libraries-and-frameworks/5.node-js.md)
 - [GO](./content/programming-languages-libraries-and-frameworks/6.go.md)
-
 - [SQL](./content/programming-languages-libraries-and-frameworks/7.sql.md)
 
 ---
@@ -129,7 +129,7 @@ DevBucket is an all-in-one resource for everything programming-related, includin
     - [Matrix]()
     - [Grid]()
     - [Trie]()
-- [Algorithm]()
+- [Algorithm](./content/data-structure-and-algorithm/3.algorithm.md)
   - [Searching algorithms]()
   - [Sorting algorithms]()
   - [Divide and conquer algorithms]()
@@ -146,6 +146,9 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Math and Bit Manipulation]()
   - [Approximation algorithms]()
   - [Sliding Window algorithms]()
+- [Coding Patterns](./content/data-structure-and-algorithm/4.coding-patterns.md)
+  - [Two-Pointer Approach](./content/data-structure-and-algorithm/4.coding-patterns.md/#two-pointer-approach)
+
 ---
 
 ## [Technical Career Path and Guide](./content/technical-career-path-and-guide)
