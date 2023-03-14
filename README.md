@@ -49,6 +49,12 @@ DevBucket is an all-in-one resource for everything programming-related, includin
 - [Clean Code](./content/software-design-and-architecture/1.clean-code.md)
   - [Clean Code Daily Read](./content/software-design-and-architecture/1.clean-code/learn.md)
 - [Programming Paradigms](./content/software-design-and-architecture/2.programming-paradigms.md)
+  - [Imperative Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#imperative-programming)
+    - [Procedural Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#procedural-programming)
+    - [Object-oriented Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#object-oriented-programming)
+  - [Declarative Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#declarative-programming)
+    - [Functional Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#functional-programming)
+    - [Logic Programming](./content/software-design-and-architecture/2.programming-paradigms.md/#logic-programming)
 - [Object Oriented Programming](./content/software-design-and-architecture/3.object-oriented-programming.md)
   - [Introduction](./content/software-design-and-architecture/3.object-oriented-programming.md/#introduction)
   - [Classes and Objects](./content/software-design-and-architecture/3.object-oriented-programming.md/#classes-and-objects)
@@ -76,6 +82,31 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - [Encapsulate What Varies](./content/software-design-and-architecture/4.software-design-principles.md/#encapsulate-what-varies)
   - [Program Against Abstractions](./content/software-design-and-architecture/4.software-design-principles.md/#program-against-abstractions)
   - [Hollywood Principle](./content/software-design-and-architecture/4.software-design-principles.md/#hollywood-principle)
+- [Software Design Patterns](./content/software-design-and-architecture/5.software-design-patterns.md)
+  - [Creational Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#creational-patterns)
+    - [Singleton Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#singleton-pattern)
+    - [Factory Method Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#factory-pattern)
+    - [Abstract Factory Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#abstract-factory-pattern)
+    - [Builder Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#builder-pattern)
+    - [Prototype Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#prototype-pattern)
+  - [Structural Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#structural-patterns)
+    - [Adapter Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#adapter-pattern)
+    - [Bridge Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#bridge-pattern)
+    - [Composite Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#composite-pattern)
+    - [Decorator Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#decorator-pattern)
+    - [Facade Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#facade-pattern)
+    - [Flyweight Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#flyweight-pattern)
+    - [Proxy Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#proxy-pattern)
+  - [Behavioral Patterns](./content/software-design-and-architecture/5.software-design-patterns.md/#behavioral-patterns)
+    - [Observer Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#observer-pattern)
+    - [Strategy Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#strategy-pattern)
+    - [Command Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#command-pattern)
+    - [Template Method Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#template-method-pattern)
+    - [State Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#state-pattern)
+    - [Iterator Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#iterator-pattern)
+    - [Chain of Responsibility Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#chain-of-responsibility-pattern)
+    - [Visitor Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#visitor-pattern)
+    - [Interpreter Pattern](./content/software-design-and-architecture/5.software-design-patterns.md/#interpreter-pattern)
 ---
 
 ## [System Design and Architecture](./content/system-design-and-architecture.md)
@@ -208,6 +239,8 @@ DevBucket is an all-in-one resource for everything programming-related, includin
   - Study software engineering principles such as software design patterns, SOLID principles, and Agile methodologies.
   - Study the basics of devops and continuous integration and delivery.
   - Study the basics of cloud computing.
+
+---
 
 ## Important Links to Follow
 

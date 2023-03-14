@@ -16,7 +16,7 @@ Data structures and algorithms are interrelated concepts because choosing the ri
 
 In summary, data structures provide a framework for organizing and storing data, while algorithms provide a set of instructions for performing a specific task or solving a problem. Choosing the right data structure and algorithm can significantly affect the performance and efficiency of a program.
 
-## Examples:
+### Examples
 
  | Use Cases                          | Data Structure                                                         |
  | ---------------------------------- | ---------------------------------------------------------------------- |
@@ -93,10 +93,7 @@ Some common examples of non-linear data structures include: Tree, Heap, Graph, T
 - Find the Median of Two Sorted Arrays of Size n and m
 - Find K Pairs with Smallest Sums
 
-## Visual 
-
-- https://visualgo.net/en
-
 ## Resources
 
+- https://visualgo.net/en
 - https://github.com/trekhleb/javascript-algorithms
